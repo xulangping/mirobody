@@ -1,0 +1,640 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog4
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/23 21:30 - 12/3 05:00
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+NBIS
+$97.22
+-2.93%
+Volume
+62,549
+Premiums
+32.8M
+Bullish
+14.52M
+44.25%
+Bearish
+14.6M
+44.50%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/03 04:49:56
+NBIS
+ASK	99	call	2026-01-02	31d	$97.03	2%	$9.20 - $9.40	$9.40	121	$114K	172	30	5.73	
+81%
+6,328	91.08	0.523	-0.1657	0.0155	0.1126	0.0351	9.40	Communication Services	Internet Content & Information	78	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/03 04:49:56
+NBIS
+BID	93	put	2025-12-26	24d	$97.05	4%	$6.50 - $7.30	$6.80	356	$242K	439	29	15.14	
+98%
+-13,594	89.47	-0.3818	-0.1767	0.0171	0.0949	-0.0288	6.80	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+12/03 04:49:56
+NBIS
+BID	93	put	2025-12-26	24d	$97.05	4%	$6.50 - $7.30	$6.80	70	$48K	83	29	2.86	
+92%
+-2,673	89.47	-0.3818	-0.1767	0.0171	0.0949	-0.0288	6.80	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+12/03 04:07:42
+NBIS
+BID	185	call	2026-09-18	290d	$98.75	87%	$12.70 - $16.60	$14.43	500	$722K	500	124	4.03	
+100%
+18,746	94.72	0.3749	-0.0547	0.0045	0.3337	0.1795	14.43	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/02 22:58:05
+NBIS
+ASK	111	call	2026-01-02	31d	$101.59	9%	$6.20 - $7.30	$6.80	50	$34K	50	5	10.00	
+100%
+2,073	88.16	0.4146	-0.1643	0.0149	0.1154	0.03	6.80	Communication Services	Internet Content & Information	78		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 04:49:16
+NBIS
+ASK	101	call	2025-12-26	24d	$101.13	-0%	$9.50 - $9.80	$9.80	300	$294K	353	20	17.65	
+90%
+16,511	92.45	0.5504	-0.1938	0.0162	0.1047	0.0314	9.80	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 04:38:45
+NBIS
+BID	99	call	2025-12-19	17d	$101.04	-2%	$9.40 - $9.90	$9.55	250	$239K	276	131	2.11	
+98%
+14,506	95.98	0.5803	-0.234	0.0181	0.0877	0.0242	9.55	Communication Services	Internet Content & Information	78		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+12/02 04:22:08
+NBIS
+ASK	120	call	2025-12-26	24d	$101.04	19%	$3.10 - $3.50	$3.32	650	$216K	828	215	3.85	
+96%
+17,122	87.83	0.2634	-0.1518	0.0141	0.0863	0.016	3.32	Communication Services	Internet Content & Information	78		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 01:23:00
+NBIS
+ASK	170	call	2026-02-20	80d	$97.30	75%	$2.45 - $3.00	$3.00	500	$150K	503	207	2.43	
+99%
+7,858	96.04	0.1572	-0.0654	0.0055	0.1102	0.0273	3.00	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 00:47:50
+NBIS
+BID	107	call	2025-12-26	24d	$96.88	10%	$5.40 - $5.70	$5.40	69	$37K	71	65	1.09	
+99%
+2,638	90.70	0.3823	-0.1755	0.0166	0.0967	0.0217	5.40	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+12/02 00:31:06
+NBIS
+ASK	165	call	2026-02-20	80d	$95.65	73%	$2.30 - $3.60	$3.20	500	$160K	500	181	2.76	
+100%
+8,355	96.87	0.1671	-0.0675	0.0057	0.1128	0.0284	3.20	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/01 23:13:55
+NBIS
+BID	93	put	2025-12-19	17d	$94.57	2%	$7.10 - $7.40	$7.10	98	$70K	118	74	1.59	
+100%
+-4,182	94.79	-0.4267	-0.2167	0.0197	0.0824	-0.0234	7.10	Communication Services	Internet Content & Information	78	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+12/01 22:52:02
+NBIS
+BID	89	put	2025-12-12	10d	$93.69	5%	$4.20 - $4.40	$4.20	129	$54K	132	37	3.57	
+98%
+-4,519	99.24	-0.3503	-0.2717	0.023	0.0603	-0.0112	4.20	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+12/01 22:30:08
+NBIS
+BID	91	put	2025-12-12	10d	$91.65	1%	$5.40 - $6.70	$5.41	65	$35K	95	17	5.59	
+100%
+-2,929	90.70	-0.4506	-0.2595	0.0274	0.063	-0.0141	5.41	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+11/29 00:48:17
+NBIS
+BID	80	call	2025-12-05	3d	$94.83	-16%	$13.90 - $15.80	$14.82	83	$123K	87	44	1.98	
+99%
+7,282	113.39	0.8773	-0.2163	0.0136	0.0267	0.0129	15.80	Communication Services	Internet Content & Information	78		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+11/29 00:43:56
+NBIS
+ASK	145	put	2026-03-20	108d	$94.40	-54%	$55.00 - $57.40	$56.30	140	$788K	140	44	3.18	
+100%
+-10,339	87.73	-0.7385	-0.0659	0.0071	0.1701	-0.3867	56.30	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/28 23:04:23
+NBIS
+BID	92	put	2025-12-05	3d	$94.55	3%	$3.10 - $3.70	$3.34	496	$166K	508	476	1.07	
+100%
+-19,206	87.41	-0.3872	-0.3129	0.0335	0.0501	-0.0077	3.34	Communication Services	Internet Content & Information	78		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+11/28 22:34:35
+NBIS
+ASK	91	call	2025-12-19	17d	$96.56	-6%	$11.20 - $12.80	$12.10	49	$59K	49	42	1.17	
+100%
+3,150	101.12	0.6428	-0.2082	0.0159	0.0864	0.0287	12.10	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 04:21:56
+NBIS
+BID	155	call	2028-01-21	780d	$95.00	63%	$35.00 - $37.90	$36.33	300	$1.09M	300	29	10.34	
+100%
+18,789	92.46	0.6263	-0.0312	0.0029	0.528	0.4989	36.33	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/27 04:13:24
+NBIS
+ASK	83	call	2025-12-12	10d	$95.28	-13%	$15.00 - $15.60	$15.50	25	$39K	25	4	6.25	
+100%
+1,920	106.25	0.7678	-0.2024	0.0144	0.0609	0.0253	15.50	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 04:08:04
+NBIS
+BID	99	call	2025-12-19	17d	$94.81	4%	$7.00 - $7.30	$7.10	100	$71K	104	25	4.16	
+98%
+4,732	93.38	0.4732	-0.1924	0.0179	0.0947	0.0238	7.10	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/27 03:16:35
+NBIS
+ASK	123	put	2025-11-28	-4d	$92.55	-33%	$28.90 - $31.70	$30.40	85	$258K	85	22	3.86	
+100%
+-7,397	309.34	-0.8703	-1.1189	0.01	0.0145	-0.0062	31.70	Communication Services	Internet Content & Information	78		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+11/27 02:08:53
+NBIS
+ASK	55	call	2027-12-17	745d	$93.28	-41%	$58.50 - $62.90	$61.04	12	$73K	12	5	2.40	
+100%
+1,036	102.02	0.8636	-0.02	0.0016	0.2926	0.4016	61.04	Communication Services	Internet Content & Information	78		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 00:06:54
+NBIS
+BID	94	put	2025-12-05	3d	$94.29	0%	$5.30 - $5.90	$5.33	300	$160K	338	72	4.69	
+97%
+-13,873	92.92	-0.4624	-0.3034	0.0289	0.0588	-0.0121	5.33	Communication Services	Internet Content & Information	78		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+11/26 22:59:47
+NBIS
+ASK	98	put	2025-11-28	-4d	$92.67	-6%	$5.30 - $6.00	$6.00	92	$55K	97	81	1.20	
+98%
+-7,321	87.92	-0.7958	-0.4272	0.047	0.0194	-0.0044	6.00	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+11/26 22:59:47
+NBIS
+ASK	97	put	2025-11-28	-4d	$92.67	-5%	$4.80 - $5.20	$5.20	202	$105K	211	76	2.78	
+97%
+-15,136	87.54	-0.7493	-0.4775	0.053	0.0218	-0.0041	5.20	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+11/26 03:35:42
+NBIS
+ASK	96	put	2025-12-12	10d	$88.76	-8%	$11.50 - $12.10	$12.20	111	$135K	142	13	10.92	
+100%
+-6,633	101.75	-0.5976	-0.2216	0.0199	0.0741	-0.0304	12.20	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+11/26 03:07:15
+NBIS
+ASK	84	call	2025-12-05	3d	$89.59	-6%	$8.90 - $9.10	$9.10	182	$166K	189	23	8.22	
+97%
+12,350	102.85	0.6786	-0.2734	0.0235	0.0531	0.0142	9.10	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/26 03:02:07
+NBIS
+BID	97	call	2026-01-02	31d	$89.81	8%	$7.00 - $10.00	$8.14	43	$35K	43	6	7.17	
+100%
+1,983	94.97	0.4612	-0.144	0.0144	0.1151	0.0346	8.14	Communication Services	Internet Content & Information	78		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+11/26 00:20:46
+NBIS
+ASK	77	put	2025-12-05	3d	$88.26	13%	$1.95 - $2.20	$2.08	650	$135K	651	55	11.84	
+100%
+-13,316	112.77	-0.2049	-0.2339	0.0172	0.0415	-0.0055	2.08	Communication Services	Internet Content & Information	78		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+11/26 00:01:09
+NBIS
+BID	94	call	2025-12-05	3d	$88.35	6%	$3.70 - $3.90	$3.70	125	$46K	147	102	1.44	
+97%
+4,853	101.69	0.3882	-0.285	0.0258	0.056	0.0084	3.70	Communication Services	Internet Content & Information	78	Repeated Hits	SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/25 23:32:02
+NBIS
+ASK	165	put	2027-01-15	409d	$86.68	-90%	$90.90 - $93.90	$92.58	50	$463K	51	8	6.38	
+98%
+-2,974	85.89	-0.5949	-0.0359	0.0049	0.3587	-1.6428	92.58	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 23:32:02
+NBIS
+BID	165	put	2026-12-18	381d	$86.68	-90%	$90.20 - $93.30	$91.57	50	$458K	51	0	-	
+98%
+-3,052	85.91	-0.6105	-0.0368	0.005	0.3428	-1.5359	91.57	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/25 22:32:59
+NBIS
+ASK	100	put	2025-12-05	3d	$88.58	-13%	$12.00 - $14.10	$13.13	1,000	$1.31M	1,001	403	2.48	
+100%
+-76,542	91.59	-0.7654	-0.2059	0.0229	0.045	-0.0222	13.13	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 04:53:31
+NBIS
+ASK	93	put	2025-12-05	3d	$92.19	-1%	$6.60 - $7.40	$7.40	170	$126K	231	85	2.72	
+88%
+-8,169	109.16	-0.4805	-0.3162	0.0228	0.0638	-0.0156	7.40	Communication Services	Internet Content & Information	78		ML-O	
+MLAT
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 03:06:15
+NBIS
+BID	92	put	2025-12-05	3d	$92.25	0%	$6.00 - $6.70	$6.32	268	$169K	408	64	6.38	
+97%
+-12,296	101.16	-0.4588	-0.292	0.0245	0.0635	-0.0147	6.32	Communication Services	Internet Content & Information	78		ML-S	
+TLET
+🐂 - BULLISH🦴 - BID	
+
+11/25 03:06:15
+NBIS
+ASK	86	put	2025-12-05	3d	$92.25	7%	$3.70 - $4.20	$3.97	268	$106K	349	93	3.75	
+97%
+-8,563	107.66	-0.3195	-0.28	0.0207	0.0572	-0.0101	3.97	Communication Services	Internet Content & Information	78		ML-S	
+TLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 00:23:40
+NBIS
+ASK	145	put	2026-03-20	108d	$89.83	-61%	$60.20 - $61.00	$61.00	35	$214K	35	12	2.92	
+100%
+-2,582	94.05	-0.7378	-0.0661	0.0068	0.165	-0.4045	61.00	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+11/24 23:44:44
+NBIS
+BID	91	call	2025-12-19	17d	$90.17	1%	$9.80 - $10.00	$9.80	45	$44K	73	0	-	
+78%
+2,446	108.28	0.5437	-0.2028	0.0155	0.0936	0.0269	9.80	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/24 23:38:53
+NBIS
+ASK	91	call	2026-01-02	31d	$90.28	1%	$10.00 - $11.50	$11.50	40	$46K	40	18	2.22	
+100%
+2,224	100.72	0.5561	-0.1507	0.0133	0.1166	0.0413	11.50	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/24 22:35:55
+NBIS
+BID	87	call	2025-12-05	3d	$88.32	-1%	$7.50 - $7.60	$7.50	288	$216K	329	59	5.58	
+88%
+16,400	112.49	0.5694	-0.3081	0.0228	0.0602	0.0129	7.50	Communication Services	Internet Content & Information	78		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/24 22:33:46
+NBIS
+BID	85	call	2026-05-15	164d	$87.65	-3%	$25.80 - $26.50	$26.13	100	$261K	100	82	1.22	
+100%
+6,593	107.07	0.6593	-0.0689	0.0057	0.2206	0.1492	26.13	Communication Services	Internet Content & Information	78		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+11/24 22:30:18
+NBIS
+BID	78	call	2025-11-28	-4d	$86.00	-9%	$8.30 - $10.40	$9.29	100	$93K	100	10	10.00	
+100%
+7,994	120.14	0.7994	-0.3794	0.0259	0.0253	0.0065	9.29	Communication Services	Internet Content & Information	78		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	

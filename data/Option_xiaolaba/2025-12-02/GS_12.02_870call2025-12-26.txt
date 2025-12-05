@@ -1,0 +1,1490 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog4
+Info
+Careers
+
+
+
+
+SALECyber Monday Sale until Dec 02! Get 30% off of Platform plans for up to 1 year!
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/22 21:30 - 12/2 23:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+GS
+$814.94
+0.50%
+Volume
+18,546
+Premiums
+17.3M
+Bullish
+8.15M
+47.13%
+Bearish
+8.11M
+46.90%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/02 23:40:06
+GS
+ASK	870	call	2025-12-26	24d	$813.31	7%	$4.25 - $5.00	$5.00	268	$134K	302	42	7.19	
+100%
+4,615	26.79	0.1722	-0.2974	0.0046	0.5321	0.0888	5.00	Financial Services	Capital Markets	50	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 23:15:00
+GS
+ASK	760	put	2026-01-09	38d	$814.35	7%	$7.95 - $9.90	$9.26	40	$37K	40	1	40.00	
+100%
+-842	28.28	-0.2104	-0.2812	0.0039	0.7582	-0.1881	9.26	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐻 - BEARISH🛍️ - ASK	
+
+12/02 23:03:26
+GS
+BID	785	call	2026-01-09	38d	$814.23	-4%	$46.40 - $49.15	$47.61	20	$95K	24	2	12.00	
+96%
+1,333	29.85	0.6663	-0.378	0.0046	0.9556	0.5153	47.61	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/02 22:48:31
+GS
+ASK	830	call	2026-01-09	38d	$813.30	2%	$20.10 - $23.00	$21.69	40	$87K	43	7	6.14	
+98%
+1,713	27.63	0.4282	-0.3763	0.0054	1.0299	0.34	21.69	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 22:48:31
+GS
+BID	790	call	2026-01-09	38d	$813.30	-3%	$42.65 - $45.75	$43.89	40	$176K	43	8	5.38	
+98%
+2,551	29.81	0.6378	-0.3885	0.0048	0.9839	0.4943	43.89	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/02 22:31:56
+GS
+ASK	775	call	2025-12-05	3d	$815.78	-5%	$39.30 - $43.90	$41.65	8	$33K	9	2	4.50	
+89%
+745	38.45	0.9317	-0.6269	0.0046	0.0974	0.059	41.65	Financial Services	Capital Markets	50		ML-S	
+TLET
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 22:30:02
+GS
+BID	230	call	2027-06-17	562d	$811.80	-72%	$581.00 - $591.00	$584.94	1	$58K	1	0	-	
+100%
+99	50.71	0.99	-0.0138	0.0001	0.2689	3.3678	584.94	Financial Services	Capital Markets	50		ML-S	
+TLET
+🐻 - BEARISH🦴 - BID	
+
+12/02 04:43:18
+GS
+ASK	150	call	2025-12-19	17d	$811.50	-82%	$658.05 - $664.25	$661.50	2	$132K	2	1	2.00	
+100%
+198	390.25	0.9914	-0.4578	0.00	0.0422	0.0692	664.25	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 04:38:27
+GS
+BID	905	call	2028-01-21	780d	$811.66	12%	$110.25 - $116.55	$113.03	12	$136K	20	1	20.00	
+100%
+599	30.93	0.4995	-0.096	0.0011	4.7365	6.2571	113.03	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 04:38:23
+GS
+BID	905	call	2028-01-21	780d	$811.66	12%	$110.25 - $116.55	$113.02	5	$57K	8	1	8.00	
+100%
+250	30.93	0.4995	-0.096	0.0011	4.7365	6.2571	113.02	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 04:38:23
+GS
+BID	905	call	2028-01-21	780d	$811.66	12%	$110.20 - $116.55	$112.98	3	$34K	3	1	3.00	
+100%
+150	30.92	0.4995	-0.096	0.0011	4.7365	6.2571	112.98	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 04:30:54
+GS
+BID	785	call	2026-06-18	198d	$811.74	-3%	$86.05 - $87.65	$86.84	20	$174K	32	5	6.40	
+75%
+1,211	30.71	0.6056	-0.1811	0.0021	2.3069	2.2066	86.84	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 03:00:13
+GS
+BID	815	call	2026-07-17	227d	$813.52	0%	$78.30 - $79.90	$78.30	5	$39K	5	2	2.50	
+100%
+274	30.61	0.548	-0.1738	0.002	2.5465	2.2958	78.30	Financial Services	Capital Markets	50		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 02:57:33
+GS
+ASK	865	call	2026-07-17	227d	$813.73	6%	$54.85 - $57.00	$55.93	40	$224K	69	1	69.00	
+80%
+1,784	29.69	0.4461	-0.1679	0.0021	2.5423	1.918	55.93	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 02:57:33
+GS
+BID	775	call	2026-07-17	227d	$813.73	-5%	$98.80 - $102.45	$99.91	40	$400K	42	0	-	
+98%
+2,514	31.35	0.6285	-0.1703	0.0019	2.4316	2.5703	99.91	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 02:54:58
+GS
+BID	865	call	2026-07-17	227d	$813.65	6%	$54.50 - $57.20	$55.47	11	$61K	13	1	13.00	
+92%
+490	29.53	0.4451	-0.1669	0.0021	2.5411	1.9156	55.47	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 02:54:58
+GS
+ASK	765	call	2026-07-17	227d	$813.65	-6%	$102.15 - $107.35	$105.47	11	$116K	12	0	-	
+100%
+713	31.44	0.6478	-0.1678	0.0018	2.3873	2.6336	105.47	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 02:53:09
+GS
+ASK	770	call	2026-07-17	227d	$813.61	-5%	$102.25 - $103.85	$103.16	25	$258K	29	4	7.25	
+97%
+1,594	31.62	0.6377	-0.1704	0.0018	2.4109	2.5967	103.16	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 02:53:09
+GS
+BID	870	call	2026-07-17	227d	$813.61	7%	$53.45 - $55.10	$54.22	25	$136K	27	0	-	
+100%
+1,091	29.73	0.4363	-0.1674	0.0021	2.5326	1.8789	54.22	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 02:49:48
+GS
+ASK	620	call	2026-07-17	227d	$813.59	-24%	$209.35 - $213.35	$213.35	5	$107K	5	0	-	
+100%
+431	36.49	0.8627	-0.1168	0.0009	1.4124	3.0517	213.35	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 02:49:38
+GS
+ASK	660	call	2026-07-17	227d	$813.54	-19%	$177.55 - $180.50	$180.50	3	$54K	3	0	-	
+100%
+245	34.97	0.8163	-0.1348	0.0012	1.709	3.0206	180.50	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 02:49:32
+GS
+ASK	680	call	2026-07-17	227d	$813.54	-16%	$160.80 - $165.00	$165.00	3	$50K	5	0	-	
+80%
+237	34.32	0.789	-0.1435	0.0013	1.8581	2.979	165.00	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 02:36:34
+GS
+BID	810	put	2027-06-17	562d	$813.25	0%	$105.00 - $112.00	$107.60	30	$323K	30	4	7.50	
+100%
+-1,266	27.78	-0.422	-0.0941	0.0014	3.9522	-6.9539	107.60	Financial Services	Capital Markets	50		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 02:30:45
+GS
+BID	785	call	2026-07-17	227d	$812.99	-3%	$93.80 - $95.95	$94.79	10	$95K	12	1	12.00	
+83%
+607	31.57	0.6073	-0.1741	0.0019	2.4702	2.4918	94.79	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 02:30:45
+GS
+ASK	850	call	2026-07-17	227d	$812.99	5%	$61.60 - $63.75	$62.77	10	$63K	12	2	6.00	
+83%
+477	30.34	0.4767	-0.1728	0.002	2.559	2.0287	62.77	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 02:18:59
+GS
+BID	835	put	2026-01-09	38d	$813.42	-3%	$40.40 - $42.45	$41.28	13	$54K	15	1	15.00	
+93%
+-776	27.32	-0.5972	-0.3575	0.0053	1.0291	-0.5632	41.28	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 02:15:58
+GS
+ASK	755	call	2026-01-02	31d	$813.97	-7%	$62.60 - $66.15	$66.15	10	$66K	10	6	1.67	
+100%
+821	29.02	0.8213	-0.2888	0.0037	0.6296	0.5281	66.15	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 01:40:56
+GS
+BID	800	call	2026-01-09	38d	$811.96	-1%	$34.25 - $36.15	$35.18	20	$70K	24	1	24.00	
+100%
+1,169	27.33	0.5844	-0.365	0.0054	1.0351	0.4694	35.18	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 01:39:37
+GS
+ASK	1030	call	2028-01-21	780d	$811.76	27%	$72.05 - $75.35	$75.35	5	$38K	5	1	5.00	
+100%
+190	30.15	0.3799	-0.089	0.0011	4.5207	4.9857	75.35	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 01:20:41
+GS
+BID	780	call	2026-01-02	31d	$810.74	-4%	$42.95 - $46.80	$44.25	25	$111K	37	6	6.17	
+73%
+1,742	27.62	0.6969	-0.3648	0.0053	0.8385	0.4566	44.25	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/02 00:47:35
+GS
+ASK	815	call	2027-06-17	562d	$814.78	0%	$123.70 - $129.75	$127.92	5	$64K	5	0	-	
+100%
+291	31.54	0.5817	-0.1134	0.0012	3.9521	5.3373	127.92	Financial Services	Capital Markets	50		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 00:32:47
+GS
+ASK	630	call	2028-01-21	780d	$814.37	-23%	$249.05 - $254.85	$254.85	3	$76K	3	2	1.50	
+100%
+234	34.16	0.781	-0.0799	0.0007	3.5181	8.1558	254.85	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 00:32:46
+GS
+ASK	610	call	2028-01-21	780d	$814.37	-25%	$262.00 - $267.95	$267.95	3	$80K	3	1	3.00	
+100%
+240	34.39	0.7989	-0.0766	0.0007	3.3456	8.1885	267.95	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 00:32:45
+GS
+ASK	580	call	2028-01-21	780d	$814.40	-29%	$283.00 - $288.40	$288.40	3	$87K	3	1	3.00	
+100%
+247	34.73	0.8248	-0.0713	0.0006	3.0728	8.2024	288.40	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 00:32:26
+GS
+ASK	470	call	2028-01-21	780d	$814.07	-42%	$365.00 - $369.70	$369.70	1	$37K	1	0	-	
+100%
+91	35.49	0.9081	-0.0475	0.0004	1.9639	7.9075	369.70	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 00:31:10
+GS
+ASK	690	call	2027-06-17	562d	$814.78	-15%	$192.00 - $197.10	$197.10	2	$39K	2	1	2.00	
+100%
+146	33.32	0.7321	-0.1017	0.001	3.3331	6.16	197.10	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 00:31:06
+GS
+ASK	630	call	2027-06-17	562d	$814.29	-23%	$232.00 - $237.10	$237.10	2	$47K	2	0	-	
+100%
+159	34.44	0.795	-0.091	0.0008	2.8734	6.3282	237.10	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 00:29:34
+GS
+ASK	650	call	2027-06-17	562d	$813.43	-20%	$217.00 - $222.65	$222.65	4	$89K	4	0	-	
+100%
+310	34.10	0.7738	-0.0951	0.0009	3.0386	6.2751	222.65	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/02 00:16:19
+GS
+BID	705	call	2026-02-20	80d	$813.03	-13%	$118.15 - $123.40	$120.30	5	$60K	5	1	5.00	
+100%
+418	33.63	0.837	-0.1989	0.0019	0.9434	1.2431	120.30	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/01 23:58:03
+GS
+ASK	600	put	2026-07-17	227d	$813.17	26%	$11.30 - $13.95	$13.72	49	$67K	90	1	90.00	
+100%
+-538	35.58	-0.1097	-0.0933	0.0008	1.2065	-0.6431	13.72	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/01 23:56:35
+GS
+BID	650	put	2027-01-15	409d	$813.33	20%	$36.85 - $38.90	$36.85	15	$55K	15	5	3.00	
+100%
+-301	32.07	-0.2008	-0.0931	0.001	2.4191	-2.2484	36.85	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🦴 - BID🥤 - DIVIDEND	
+
+12/01 23:52:14
+GS
+BID	760	put	2026-07-17	227d	$811.25	6%	$46.60 - $50.70	$48.48	10	$48K	12	3	4.00	
+83%
+-342	29.05	-0.3421	-0.1475	0.002	2.355	-2.0367	48.48	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID🥤 - DIVIDEND	
+
+12/01 23:24:07
+GS
+BID	782.5	call	2025-12-19	17d	$818.04	-4%	$40.60 - $44.75	$42.67	10	$43K	10	9	1.11	
+100%
+770	28.29	0.7702	-0.4353	0.0059	0.5514	0.2896	42.67	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+12/01 22:59:40
+GS
+ASK	825	put	2026-01-09	38d	$824.15	-0%	$28.25 - $30.20	$30.20	10	$30K	12	0	-	
+83%
+-485	27.78	-0.4855	-0.3802	0.0053	1.074	-0.4598	30.20	Financial Services	Capital Markets	50		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/01 22:49:32
+GS
+ASK	840	put	2026-01-09	38d	$819.83	-2%	$38.20 - $42.30	$40.50	10	$41K	12	1	12.00	
+83%
+-590	27.21	-0.5896	-0.3606	0.0053	1.042	-0.5597	40.50	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/01 22:42:13
+GS
+ASK	860	put	2025-12-26	24d	$818.47	-5%	$48.40 - $52.05	$50.57	20	$101K	25	3	8.33	
+88%
+-1,478	27.92	-0.7388	-0.3867	0.0054	0.6964	-0.4488	50.57	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/01 22:35:27
+GS
+ASK	865	put	2026-02-20	80d	$817.33	-6%	$65.65 - $69.95	$69.95	5	$35K	7	0	-	
+86%
+-325	26.70	-0.6496	-0.2318	0.0036	1.4267	-1.3335	69.95	Financial Services	Capital Markets	50		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🥤 - DIVIDEND	
+
+12/01 22:30:11
+GS
+BID	825	call	2026-06-18	198d	$819.76	1%	$68.55 - $74.40	$68.55	5	$34K	5	3	1.67	
+100%
+267	29.19	0.534	-0.1793	0.0022	2.406	2.0128	68.55	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+11/29 01:48:01
+GS
+ASK	1145	call	2026-09-18	290d	$825.42	39%	$10.80 - $11.55	$11.30	150	$170K	150	6	25.00	
+100%
+1,831	28.06	0.1221	-0.0723	0.001	1.5001	0.7208	11.30	Financial Services	Capital Markets	50		ML-S	
+TLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+11/29 01:10:51
+GS
+ASK	660	call	2026-02-20	80d	$828.75	-20%	$174.15 - $180.05	$177.18	44	$780K	44	11	4.00	
+100%
+3,962	40.01	0.9005	-0.1687	0.0011	0.6951	1.3098	177.18	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+11/29 00:44:36
+GS
+BID	1165	call	2027-01-15	409d	$829.30	40%	$16.05 - $20.55	$18.27	20	$37K	20	4	5.00	
+100%
+321	27.78	0.1607	-0.0733	0.001	2.1525	1.3013	18.27	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+11/29 00:31:35
+GS
+BID	875	put	2026-02-20	80d	$828.23	-6%	$67.80 - $69.95	$68.77	10	$69K	12	0	-	
+92%
+-649	25.51	-0.6495	-0.2203	0.0037	1.4725	-1.3962	68.77	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/29 00:29:16
+GS
+BID	875	put	2025-12-12	10d	$828.43	-6%	$50.95 - $52.40	$51.57	25	$129K	29	0	-	
+93%
+-2,026	30.67	-0.8105	-0.4792	0.0054	0.4396	-0.2773	51.57	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/29 00:25:03
+GS
+ASK	870	put	2025-12-12	10d	$828.19	-5%	$47.15 - $48.10	$47.86	19	$91K	24	1	24.00	
+96%
+-1,486	31.02	-0.7822	-0.5268	0.0059	0.4775	-0.2668	47.86	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/29 00:16:05
+GS
+ASK	770	call	2025-12-26	24d	$830.12	-7%	$62.10 - $66.70	$64.42	32	$206K	33	7	4.71	
+100%
+2,762	25.67	0.8631	-0.2332	0.0037	0.5041	0.5002	64.42	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/29 00:10:18
+GS
+BID	480	call	2026-07-17	227d	$828.78	-42%	$351.70 - $358.30	$354.90	15	$532K	15	0	-	
+100%
+1,440	43.60	0.9602	-0.0568	0.0003	0.5656	2.7905	354.90	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/29 00:03:23
+GS
+BID	390	call	2027-06-17	562d	$829.64	-53%	$443.00 - $451.00	$443.00	70	$3.1M	70	5	14.00	
+100%
+6,906	30.12	0.9865	-0.0124	0.0001	0.3571	5.822	443.00	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/28 23:23:45
+GS
+ASK	470	call	2025-11-28	-4d	$826.43	-43%	$352.10 - $357.90	$355.01	1	$36K	1	0	-	
+100%
+99	57.50	0.985	-0.0524	0.0002	0.1509	1.0652	357.90	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+11/28 23:22:43
+GS
+ASK	430	call	2026-08-21	262d	$825.83	-48%	$396.40 - $402.25	$399.61	1	$40K	1	0	-	
+100%
+98	42.22	0.9771	-0.0335	0.0002	0.3833	2.9681	399.61	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/28 23:21:04
+GS
+ASK	520	call	2025-11-28	-4d	$826.34	-37%	$302.05 - $306.90	$305.46	1	$31K	1	0	-	
+100%
+99	40.73	0.9927	-0.0208	0.0001	0.0807	1.2085	306.90	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+11/28 23:15:04
+GS
+ASK	895	put	2026-04-17	136d	$824.33	-9%	$97.25 - $99.35	$98.31	5	$49K	7	0	-	
+86%
+-330	26.70	-0.6591	-0.1749	0.0027	1.8726	-2.4609	98.31	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/27 04:56:29
+GS
+ASK	960	call	2026-07-17	227d	$816.01	18%	$27.45 - $29.15	$28.34	30	$85K	34	0	-	
+97%
+830	28.48	0.2767	-0.1349	0.0018	2.1822	1.2607	28.34	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 04:56:29
+GS
+BID	830	call	2026-07-17	227d	$816.01	2%	$73.05 - $74.75	$73.77	30	$221K	32	10	3.20	
+100%
+1,571	30.55	0.5238	-0.1729	0.002	2.5963	2.2576	73.77	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/27 04:52:36
+GS
+BID	980	call	2026-07-17	227d	$816.12	20%	$23.75 - $25.50	$24.49	40	$98K	45	1	45.00	
+98%
+989	28.47	0.2474	-0.1273	0.0017	2.0604	1.1324	24.49	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/27 04:52:36
+GS
+ASK	835	call	2026-07-17	227d	$816.12	2%	$69.60 - $73.00	$71.70	40	$287K	43	3	14.33	
+100%
+2,057	30.54	0.5142	-0.1731	0.002	2.5997	2.2212	71.70	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 04:50:01
+GS
+BID	835	call	2026-08-21	262d	$816.12	2%	$77.70 - $80.35	$78.94	32	$253K	36	1	36.00	
+97%
+1,670	31.04	0.5218	-0.164	0.0018	2.7857	2.5474	78.94	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/27 04:50:01
+GS
+ASK	910	call	2026-08-21	262d	$816.12	12%	$47.95 - $50.10	$49.11	32	$157K	34	4	8.50	
+100%
+1,234	29.81	0.3857	-0.1508	0.0018	2.6746	1.9507	49.11	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 04:14:07
+GS
+BID	745	call	2026-01-02	31d	$817.77	-9%	$77.90 - $80.55	$79.10	40	$316K	45	9	5.00	
+96%
+3,404	29.52	0.851	-0.2444	0.003	0.6043	0.6253	79.10	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/27 04:12:38
+GS
+ASK	625	call	2026-03-20	108d	$817.67	-24%	$197.15 - $204.00	$201.20	5	$101K	9	0	-	
+100%
+455	39.06	0.9104	-0.1298	0.0009	0.7397	1.6965	201.20	Financial Services	Capital Markets	50		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 04:12:38
+GS
+ASK	625	call	2026-03-20	108d	$817.67	-24%	$197.15 - $204.00	$201.21	4	$80K	4	0	-	
+100%
+364	39.07	0.9103	-0.1299	0.0009	0.7401	1.6964	201.21	Financial Services	Capital Markets	50		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 04:10:32
+GS
+ASK	740	call	2026-01-02	31d	$817.49	-9%	$81.00 - $85.05	$83.10	30	$249K	32	23	1.39	
+97%
+2,597	29.62	0.8655	-0.229	0.0028	0.5636	0.633	83.10	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 03:44:51
+GS
+ASK	825	call	2026-07-17	227d	$817.16	1%	$74.10 - $77.70	$76.40	5	$38K	5	4	1.25	
+100%
+268	30.50	0.5358	-0.1725	0.002	2.5941	2.3075	76.40	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 03:39:19
+GS
+BID	945	call	2026-09-18	290d	$817.49	16%	$40.35 - $43.00	$41.59	10	$42K	14	1	14.00	
+86%
+338	28.86	0.3376	-0.1329	0.0017	2.69	1.9007	41.59	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/27 03:16:53
+GS
+ASK	440	call	2026-09-18	290d	$817.03	-46%	$379.00 - $385.00	$382.10	11	$420K	11	1	11.00	
+100%
+1,066	40.82	0.9695	-0.0381	0.0002	0.5075	3.325	382.10	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 03:15:24
+GS
+ASK	420	call	2026-09-18	290d	$816.36	-49%	$396.50 - $403.15	$400.39	7	$280K	7	0	-	
+100%
+683	41.21	0.9763	-0.0317	0.0002	0.411	3.2163	400.39	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 03:04:58
+GS
+BID	400	call	2025-11-28	-4d	$816.17	-51%	$413.15 - $418.30	$415.19	1	$42K	1	0	-	
+100%
+98	499.10	0.9828	-3.2133	0.0001	0.0257	0.021	418.30	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+11/27 02:34:57
+GS
+BID	730	call	2026-01-09	38d	$815.63	-10%	$91.20 - $96.90	$94.02	14	$132K	16	0	-	
+94%
+1,181	33.64	0.8438	-0.2626	0.0025	0.6784	0.7163	94.02	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/27 01:48:19
+GS
+ASK	895	call	2026-08-21	262d	$818.45	9%	$53.35 - $56.25	$55.01	10	$55K	10	3	3.33	
+100%
+416	29.95	0.416	-0.1551	0.0019	2.7356	2.0962	55.01	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 01:34:39
+GS
+BID	750	put	2026-12-18	381d	$817.98	8%	$64.40 - $66.90	$64.45	10	$64K	10	4	2.50	
+100%
+-328	29.82	-0.3279	-0.1147	0.0014	3.0424	-3.5271	64.45	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+11/27 01:11:59
+GS
+BID	735	call	2026-06-18	198d	$817.64	-10%	$121.65 - $126.55	$123.15	3	$37K	4	1	4.00	
+100%
+215	32.01	0.7161	-0.1661	0.0017	2.0713	2.5844	123.15	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/27 00:56:49
+GS
+BID	850	put	2026-07-17	227d	$819.40	-4%	$88.60 - $89.90	$89.21	15	$134K	19	2	9.50	
+95%
+-777	27.81	-0.5183	-0.1517	0.0022	2.609	-3.2805	89.21	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/27 00:56:49
+GS
+ASK	780	put	2026-07-17	227d	$819.40	5%	$56.15 - $57.50	$56.87	15	$85K	19	1	19.00	
+95%
+-554	29.73	-0.3693	-0.1548	0.0019	2.4703	-2.2946	56.87	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/27 00:13:37
+GS
+ASK	610	call	2026-06-18	198d	$818.34	-25%	$220.15 - $227.75	$225.47	18	$406K	18	0	-	
+100%
+1,581	38.65	0.8784	-0.1208	0.0009	1.2356	2.7572	225.47	Financial Services	Capital Markets	50		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+11/26 23:30:09
+GS
+ASK	650	call	2028-01-21	780d	$811.05	-20%	$235.00 - $243.90	$239.53	3	$72K	3	1	3.00	
+100%
+228	33.80	0.76	-0.0824	0.0008	3.6995	8.1164	239.53	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/26 23:20:14
+GS
+ASK	785	put	2026-04-17	136d	$812.46	3%	$44.70 - $47.40	$46.15	25	$115K	27	2	13.50	
+93%
+-972	29.81	-0.3889	-0.2019	0.0025	1.9427	-1.4087	46.15	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/26 23:16:11
+GS
+BID	840	put	2026-02-20	80d	$810.08	-4%	$58.20 - $61.50	$59.57	30	$179K	34	24	1.42	
+100%
+-1,746	27.08	-0.5819	-0.2388	0.0037	1.5356	-1.2509	59.57	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/26 23:09:49
+GS
+BID	650	call	2026-06-18	198d	$811.85	-20%	$182.50 - $189.40	$185.63	3	$56K	3	0	-	
+100%
+249	36.46	0.8309	-0.1405	0.0011	1.5305	2.7328	185.63	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/26 04:45:54
+GS
+ASK	795	put	2025-12-12	10d	$803.62	1%	$17.20 - $17.35	$17.35	40	$69K	41	38	1.08	
+100%
+-1,691	31.11	-0.4227	-0.6199	0.0073	0.6789	-0.1663	17.35	Financial Services	Capital Markets	50		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+11/26 04:41:36
+GS
+BID	805	put	2025-12-26	24d	$804.10	-0%	$26.70 - $31.00	$28.70	50	$144K	50	8	6.25	
+100%
+-2,433	30.28	-0.4867	-0.4541	0.0056	0.9344	-0.3567	28.70	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/26 04:29:48
+GS
+ASK	825	call	2025-12-05	3d	$802.11	3%	$4.50 - $4.65	$4.65	150	$70K	214	67	3.19	
+89%
+3,719	24.22	0.2479	-0.5093	0.0098	0.42	0.0532	4.65	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/26 03:18:14
+GS
+ASK	865	put	2025-12-19	17d	$800.55	-8%	$68.40 - $75.10	$71.78	10	$72K	10	2	5.00	
+100%
+-801	33.90	-0.8014	-0.4018	0.004	0.5723	-0.469	71.78	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/26 03:03:12
+GS
+BID	820	put	2025-12-26	24d	$799.09	-3%	$37.90 - $40.05	$38.72	30	$116K	34	18	1.89	
+100%
+-1,812	28.78	-0.6041	-0.4136	0.0057	0.8972	-0.4429	38.72	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/26 01:59:57
+GS
+BID	710	put	2026-12-18	381d	$798.76	11%	$55.95 - $61.20	$58.37	7	$41K	8	4	2.00	
+100%
+-208	31.52	-0.2966	-0.1134	0.0013	2.8487	-3.1391	58.37	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/26 01:59:22
+GS
+ASK	792.5	put	2025-12-05	3d	$798.91	1%	$12.70 - $12.90	$12.90	40	$52K	43	3	14.33	
+95%
+-1,704	30.29	-0.4261	-0.7839	0.0098	0.5185	-0.0968	12.90	Financial Services	Capital Markets	50	Repeated Hits	SL	
+ISOI
+SWEEP	🐻 - BEARISH🛍️ - ASK	
+
+11/26 01:57:05
+GS
+ASK	770	call	2026-01-02	31d	$799.27	-4%	$45.30 - $47.85	$46.63	30	$140K	32	10	3.20	
+100%
+2,014	29.35	0.6713	-0.3627	0.0048	0.9325	0.51	46.63	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/26 01:47:33
+GS
+ASK	797.5	put	2025-12-05	3d	$798.74	0%	$15.05 - $16.10	$15.64	33	$52K	55	7	7.86	
+91%
+-1,576	30.87	-0.4774	-0.8114	0.0098	0.5266	-0.1088	15.64	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/26 01:44:59
+GS
+ASK	900	call	2026-07-17	227d	$799.05	13%	$37.35 - $40.50	$39.72	10	$40K	12	2	6.00	
+92%
+353	29.52	0.3528	-0.1517	0.002	2.3767	1.5528	39.72	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/26 01:16:59
+GS
+ASK	755	call	2025-12-12	10d	$796.63	-5%	$43.50 - $47.05	$47.05	10	$47K	10	4	2.50	
+100%
+811	29.26	0.8112	-0.402	0.0054	0.4647	0.2791	47.05	Financial Services	Capital Markets	50		SL	
+ISOI
+SWEEP	🐂 - BULLISH🛍️ - ASK	
+
+11/26 00:30:53
+GS
+ASK	1025	call	2028-01-21	780d	$794.30	29%	$67.40 - $73.10	$70.95	5	$35K	5	0	-	
+100%
+184	30.26	0.3676	-0.0862	0.0011	4.3945	4.7664	70.95	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 23:53:06
+GS
+ASK	710	call	2026-12-18	381d	$792.13	-10%	$146.20 - $153.60	$150.25	10	$150K	16	1	16.00	
+88%
+691	33.48	0.6909	-0.1272	0.0013	2.8778	4.2202	150.25	Financial Services	Capital Markets	50		ML-O	
+MESL
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 23:42:19
+GS
+ASK	772.5	put	2025-12-12	10d	$790.48	2%	$13.60 - $14.55	$14.55	150	$218K	150	3	50.00	
+100%
+-5,411	33.33	-0.3607	-0.625	0.0066	0.6387	-0.1396	14.55	Financial Services	Capital Markets	50		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 23:40:27
+GS
+ASK	670	call	2026-08-21	262d	$789.08	-15%	$157.00 - $162.75	$160.32	10	$160K	15	1	15.00	
+87%
+758	35.13	0.758	-0.1415	0.0013	2.1152	3.2267	160.32	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 23:28:56
+GS
+ASK	715	call	2026-01-02	31d	$786.70	-9%	$75.40 - $80.40	$79.85	10	$80K	14	5	2.80	
+86%
+830	32.97	0.8298	-0.282	0.003	0.6428	0.5965	79.85	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 23:26:55
+GS
+ASK	400	call	2026-08-21	262d	$786.60	-49%	$386.05 - $392.65	$389.66	1	$39K	1	0	-	
+100%
+98	41.75	0.9809	-0.0274	0.0002	0.315	2.8144	389.66	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 23:24:30
+GS
+ASK	840	call	2026-08-21	262d	$784.36	7%	$60.85 - $63.75	$62.34	20	$125K	22	8	2.75	
+95%
+910	31.29	0.4549	-0.1575	0.0019	2.6691	2.1704	62.34	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 23:24:30
+GS
+BID	775	call	2026-08-21	262d	$784.36	-1%	$89.85 - $93.60	$91.65	20	$183K	22	6	3.67	
+95%
+1,150	32.37	0.5752	-0.1615	0.0018	2.6385	2.6494	91.65	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/25 23:20:14
+GS
+BID	765	call	2026-05-15	164d	$786.85	-3%	$79.55 - $84.25	$81.35	25	$203K	27	1	27.00	
+96%
+1,489	32.87	0.5956	-0.2028	0.0022	2.0866	1.8146	81.35	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/25 23:10:47
+GS
+ASK	787.5	call	2025-12-05	3d	$791.82	-1%	$16.20 - $16.75	$16.75	150	$251K	150	8	18.75	
+100%
+8,351	27.76	0.5568	-0.7198	0.0109	0.5176	0.1162	16.75	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 23:01:45
+GS
+ASK	730	call	2026-01-02	31d	$790.51	-8%	$67.35 - $71.73	$71.15	10	$71K	10	4	2.50	
+100%
+790	32.85	0.7899	-0.3208	0.0034	0.7352	0.576	71.15	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 23:01:41
+GS
+ASK	720	call	2026-01-02	31d	$790.28	-9%	$74.00 - $79.75	$79.25	10	$79K	10	7	1.43	
+100%
+820	33.62	0.8198	-0.2992	0.0031	0.6695	0.592	79.25	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 22:49:59
+GS
+BID	700	call	2025-12-05	3d	$780.06	-10%	$77.70 - $84.70	$80.93	7	$57K	7	3	2.33	
+100%
+671	38.42	0.9586	-0.2218	0.0018	0.1143	0.1827	80.93	Financial Services	Capital Markets	50		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+11/25 04:50:48
+GS
+ASK	760	call	2026-04-17	136d	$791.75	-4%	$78.75 - $81.85	$80.59	49	$395K	69	11	6.27	
+100%
+3,040	32.52	0.6204	-0.2161	0.0024	1.8929	1.62	80.59	Financial Services	Capital Markets	50		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 04:21:35
+GS
+ASK	730	put	2026-08-21	262d	$790.15	8%	$50.15 - $52.65	$51.48	15	$77K	17	9	1.89	
+94%
+-494	30.23	-0.3291	-0.1352	0.0018	2.4583	-2.3042	51.48	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 03:58:51
+GS
+ASK	750	put	2026-09-18	290d	$790.29	5%	$62.50 - $64.60	$63.56	50	$318K	50	1	50.00	
+100%
+-1,840	29.98	-0.368	-0.1327	0.0018	2.6915	-2.8937	63.56	Financial Services	Capital Markets	50		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+11/25 03:39:45
+GS
+ASK	760	put	2025-12-26	24d	$791.39	4%	$15.15 - $17.55	$16.85	40	$67K	49	21	2.33	
+94%
+-1,281	32.78	-0.3201	-0.4277	0.0047	0.8381	-0.2369	16.85	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 03:36:55
+GS
+BID	825	put	2026-06-18	198d	$790.21	-4%	$84.75 - $87.50	$85.99	20	$172K	22	1	22.00	
+95%
+-1,072	28.15	-0.5361	-0.1572	0.0024	2.3586	-2.8761	85.99	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/25 03:36:55
+GS
+ASK	765	put	2026-06-18	198d	$790.21	3%	$55.85 - $57.95	$57.03	20	$114K	22	7	3.14	
+95%
+-792	29.88	-0.396	-0.1631	0.0022	2.2874	-2.088	57.03	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 03:34:49
+GS
+ASK	825	put	2026-07-17	227d	$790.86	-4%	$88.45 - $90.75	$89.62	20	$179K	26	0	-	
+81%
+-1,054	27.97	-0.5271	-0.1464	0.0022	2.5258	-3.261	89.62	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 03:33:21
+GS
+BID	770	put	2026-07-17	227d	$791.24	3%	$61.40 - $64.15	$62.69	40	$251K	46	1	46.00	
+98%
+-1,619	29.49	-0.4048	-0.1514	0.0021	2.4604	-2.4658	62.69	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/25 03:33:21
+GS
+ASK	820	put	2026-07-17	227d	$791.24	-4%	$85.10 - $87.90	$86.58	40	$346K	44	0	-	
+100%
+-2,061	28.05	-0.5152	-0.1473	0.0022	2.531	-3.1819	86.58	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 03:05:21
+GS
+BID	820	call	2026-01-02	31d	$792.13	4%	$15.15 - $17.25	$16.13	20	$32K	32	7	4.57	
+78%
+723	26.47	0.3617	-0.3308	0.0055	0.9703	0.2889	16.13	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/25 02:55:40
+GS
+ASK	740	call	2026-01-02	31d	$791.18	-6%	$59.00 - $63.30	$63.30	5	$32K	7	0	-	
+86%
+380	31.20	0.7608	-0.324	0.0038	0.8026	0.5755	63.30	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 02:46:01
+GS
+ASK	910	put	2025-12-12	10d	$790.99	-15%	$121.10 - $126.10	$123.62	6	$74K	10	0	-	
+100%
+-532	50.06	-0.8858	-0.4689	0.0022	0.3392	-0.4065	123.62	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 02:32:29
+GS
+ASK	480	call	2025-11-28	-4d	$789.92	-39%	$306.85 - $312.10	$309.48	1	$31K	1	0	-	
+100%
+98	259.43	0.9756	-1.5381	0.0003	0.0474	0.0503	312.10	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 02:31:47
+GS
+BID	460	call	2025-11-28	-4d	$789.66	-42%	$326.85 - $331.90	$329.37	1	$33K	1	0	-	
+100%
+98	279.88	0.9768	-1.5915	0.0002	0.0454	0.0482	331.90	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+11/25 02:31:47
+GS
+ASK	470	call	2025-11-28	-4d	$789.66	-40%	$316.85 - $322.00	$319.43	1	$32K	1	0	-	
+100%
+98	272.23	0.9752	-1.6351	0.0003	0.048	0.0491	322.00	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 02:26:53
+GS
+BID	450	call	2025-11-28	-4d	$790.34	-43%	$336.85 - $342.05	$339.44	1	$34K	1	0	-	
+100%
+98	277.18	0.9815	-1.2993	0.0002	0.0375	0.0475	342.05	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+11/25 02:25:34
+GS
+BID	430	call	2025-11-28	-4d	$790.37	-46%	$356.80 - $361.85	$359.32	1	$36K	1	0	-	
+100%
+98	290.17	0.9845	-1.1735	0.0002	0.0323	0.0456	361.85	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+11/25 02:25:34
+GS
+ASK	440	call	2025-11-28	-4d	$790.37	-44%	$346.80 - $351.95	$349.38	1	$35K	1	0	-	
+100%
+98	283.32	0.9831	-1.2285	0.0002	0.0347	0.0466	351.95	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 02:21:39
+GS
+BID	410	call	2025-11-28	-4d	$790.40	-48%	$376.80 - $381.85	$379.32	1	$38K	1	0	-	
+100%
+99	309.50	0.9857	-1.1674	0.0001	0.0301	0.0435	381.85	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+11/25 02:21:39
+GS
+ASK	420	call	2025-11-28	-4d	$790.40	-47%	$366.80 - $371.95	$369.38	1	$37K	1	0	-	
+100%
+98	302.43	0.9844	-1.2241	0.0002	0.0323	0.0445	371.95	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 02:16:13
+GS
+ASK	710	call	2026-02-20	80d	$790.46	-10%	$100.50 - $103.30	$102.00	190	$1.94M	190	84	2.26	
+100%
+14,446	35.40	0.7603	-0.2453	0.0023	1.2058	1.203	102.00	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 01:54:47
+GS
+BID	745	call	2025-12-05	3d	$789.51	-6%	$47.25 - $49.35	$47.25	10	$47K	12	4	3.00	
+92%
+872	30.18	0.8717	-0.3964	0.0051	0.2874	0.1932	47.25	Financial Services	Capital Markets	50		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/25 01:16:52
+GS
+ASK	720	call	2026-01-02	31d	$785.46	-8%	$73.00 - $75.45	$75.45	5	$38K	7	1	7.00	
+86%
+402	33.34	0.8037	-0.3069	0.0032	0.7108	0.5939	75.45	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 01:16:38
+GS
+ASK	715	call	2026-01-02	31d	$785.47	-9%	$77.65 - $79.45	$79.45	5	$40K	5	0	-	
+100%
+410	33.47	0.8201	-0.2921	0.0031	0.6735	0.6034	79.45	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/25 01:16:14
+GS
+BID	785	put	2026-06-18	198d	$785.26	0%	$67.75 - $69.45	$68.59	10	$69K	12	2	6.00	
+92%
+-452	29.55	-0.4524	-0.1643	0.0023	2.3367	-2.3921	68.59	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID	
+
+11/25 01:16:14
+GS
+ASK	785	put	2026-07-17	227d	$785.26	0%	$72.00 - $73.75	$72.89	10	$73K	10	5	2.00	
+100%
+-449	29.43	-0.4494	-0.1529	0.0021	2.4935	-2.7415	72.89	Financial Services	Capital Markets	50		ML-O	
+MLAT
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 01:00:20
+GS
+BID	855	put	2025-12-12	10d	$786.00	-9%	$73.55 - $75.75	$73.55	7	$51K	7	5	1.40	
+100%
+-595	35.18	-0.8502	-0.3948	0.0038	0.4066	-0.3658	73.55	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+11/25 00:44:16
+GS
+ASK	730	put	2028-01-21	780d	$790.20	8%	$100.00 - $103.15	$103.15	5	$52K	5	2	2.50	
+100%
+-170	30.19	-0.3394	-0.0786	0.001	4.2514	-8.0172	103.15	Financial Services	Capital Markets	50		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 00:43:43
+GS
+ASK	795	put	2026-12-18	381d	$789.24	-1%	$94.80 - $96.05	$96.05	10	$96K	10	4	2.50	
+100%
+-446	29.07	-0.446	-0.1169	0.0017	3.2207	-4.7751	96.05	Financial Services	Capital Markets	50		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+11/25 00:34:36
+GS
+ASK	815	call	2025-12-19	17d	$788.92	3%	$12.30 - $13.75	$13.60	200	$272K	206	148	1.39	
+98%
+6,992	29.19	0.3496	-0.4472	0.0061	0.7644	0.1796	13.60	Financial Services	Capital Markets	50		SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+11/25 00:31:52
+GS
+BID	690	put	2026-03-20	108d	$788.81	13%	$18.90 - $19.90	$19.15	102	$195K	102	43	2.37	
+100%
+-2,129	33.27	-0.2087	-0.1821	0.0019	1.277	-0.5841	19.15	Financial Services	Capital Markets	50		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+11/25 00:14:38
+GS
+BID	745	call	2026-03-20	108d	$788.63	-6%	$81.30 - $85.00	$81.30	5	$41K	5	2	2.50	
+100%
+328	32.84	0.6567	-0.2339	0.0025	1.6349	1.3876	81.30	Financial Services	Capital Markets	50		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/24 23:22:42
+GS
+BID	815	put	2026-08-21	262d	$788.03	-3%	$90.70 - $92.40	$91.52	40	$366K	42	6	7.00	
+98%
+-2,009	28.55	-0.5023	-0.1392	0.0021	2.7038	-3.6052	91.52	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/24 23:22:42
+GS
+ASK	750	put	2026-08-21	262d	$788.03	5%	$60.70 - $62.40	$61.59	40	$246K	42	3	14.00	
+98%
+-1,486	30.38	-0.3715	-0.1414	0.0018	2.5624	-2.6212	61.59	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+11/24 22:56:00
+GS
+ASK	745	call	2025-12-26	24d	$779.84	-4%	$48.05 - $51.50	$49.90	10	$50K	12	2	6.00	
+92%
+701	32.38	0.7007	-0.4084	0.0046	0.802	0.4353	49.90	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+11/24 22:48:24
+GS
+BID	755	put	2026-03-20	108d	$782.18	3%	$39.25 - $44.10	$41.63	10	$42K	10	8	1.25	
+100%
+-385	31.50	-0.3853	-0.2269	0.0028	1.6859	-1.09	41.63	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+11/24 22:37:27
+GS
+BID	760	call	2026-01-02	31d	$780.62	-3%	$39.40 - $44.05	$41.60	25	$104K	47	1	47.00	
+53%
+1,568	29.95	0.6272	-0.3733	0.005	0.9657	0.4787	41.60	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/24 22:37:16
+GS
+ASK	760	call	2026-01-02	31d	$781.81	-3%	$39.40 - $44.05	$41.93	20	$84K	22	1	22.00	
+100%
+1,269	29.52	0.6345	-0.3662	0.005	0.9611	0.4852	41.93	Financial Services	Capital Markets	50		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	

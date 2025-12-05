@@ -1,0 +1,336 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog4
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/23 21:30 - 12/3 05:00
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+EAT
+$148.47
+-1.92%
+Volume
+3,193
+Premiums
+1.68M
+Bullish
+806,488
+48.00%
+Bearish
+701,050
+41.72%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/03 02:19:33
+EAT
+ASK	150	call	2025-12-19	17d	$148.18	1%	$5.20 - $5.70	$5.60	358	$200K	617	95	6.49	
+86%
+17,081	50.40	0.4771	-0.189	0.0247	0.1274	0.0303	5.60	Consumer Cyclical	Restaurants	64	Low Historic Volume Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+12/02 23:48:18
+EAT
+ASK	140	put	2026-01-16	45d	$151.78	8%	$4.00 - $4.50	$4.30	700	$301K	1,100	65	16.92	
+100%
+-19,184	44.12	-0.2741	-0.0868	0.0142	0.1775	-0.0566	4.30	Consumer Cyclical	Restaurants	64		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+12/02 23:35:36
+EAT
+ASK	140	put	2026-01-16	45d	$151.76	8%	$4.00 - $4.40	$4.30	400	$172K	400	65	6.15	
+100%
+-10,970	44.08	-0.2743	-0.0867	0.0142	0.1776	-0.0566	4.30	Consumer Cyclical	Restaurants	64		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+12/02 23:35:36
+EAT
+ASK	170	call	2026-01-16	45d	$151.76	12%	$3.30 - $4.20	$4.00	200	$80K	201	128	1.57	
+100%
+5,540	47.74	0.277	-0.0949	0.0132	0.1784	0.0469	4.00	Consumer Cyclical	Restaurants	64		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+11/28 23:34:04
+EAT
+BID	85	call	2028-01-21	780d	$154.41	-45%	$82.00 - $86.40	$83.63	5	$42K	5	0	-	
+100%
+435	59.54	0.8702	-0.0186	0.0016	0.4782	1.0898	83.63	Consumer Cyclical	Restaurants	64		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	

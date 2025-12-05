@@ -1,0 +1,512 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog4
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/23 21:30 - 12/3 05:00
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+WDAY
+$212.59
+-0.36%
+Volume
+3,943
+Premiums
+3.33M
+Bullish
+2.03M
+60.80%
+Bearish
+1.15M
+34.57%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/03 00:53:26
+WDAY
+ASK	240	call	2026-12-18	381d	$212.62	13%	$23.70 - $25.20	$25.20	100	$252K	144	8	18.00	
+85%
+4,687	40.53	0.4687	-0.0465	0.0045	0.864	0.7773	25.20	Technology	Software	84	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 22:38:45
+WDAY
+ASK	270	put	2026-01-16	45d	$211.38	-28%	$58.70 - $58.80	$58.79	50	$294K	76	7	10.86	
+68%
+-4,875	34.46	-0.975	-0.0151	0.0023	0.0433	-0.3266	58.79	Technology	Software	84		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+12/02 22:38:45
+WDAY
+BID	270	put	2026-01-16	45d	$211.38	-28%	$58.80 - $60.00	$58.80	10	$59K	10	7	1.43	
+100%
+-974	34.69	-0.9742	-0.0157	0.0023	0.0445	-0.3264	58.80	Technology	Software	84		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+12/02 04:38:26
+WDAY
+BID	270	put	2026-01-16	45d	$213.31	-27%	$54.50 - $58.20	$56.29	20	$113K	21	8	2.63	
+100%
+-1,803	48.16	-0.9017	-0.0673	0.0048	0.1312	-0.3158	58.20	Technology	Software	84		ML-O	
+MFSL
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+12/02 04:38:26
+WDAY
+BID	270	put	2025-12-19	17d	$213.31	-27%	$54.40 - $57.20	$55.75	20	$112K	20	2	10.00	
+100%
+-1,907	60.72	-0.9535	-0.0769	0.0034	0.0461	-0.1285	57.20	Technology	Software	84		ML-O	
+MFSL
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+12/02 01:08:26
+WDAY
+ASK	280	call	2026-06-18	198d	$215.09	30%	$5.90 - $6.10	$6.10	141	$86K	167	83	2.01	
+86%
+2,923	37.25	0.2073	-0.0428	0.0048	0.4542	0.2098	6.10	Technology	Software	84		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/29 00:32:44
+WDAY
+BID	280	put	2026-01-16	45d	$215.67	-30%	$62.70 - $66.20	$62.70	200	$1.25M	200	178	1.12	
+100%
+-17,892	52.79	-0.8946	-0.0762	0.0044	0.1441	-0.3479	66.20	Technology	Software	84		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+11/29 00:32:44
+WDAY
+BID	270	put	2026-01-16	45d	$215.67	-25%	$52.50 - $55.90	$52.50	50	$263K	51	9	5.67	
+98%
+-4,486	45.41	-0.8972	-0.0642	0.005	0.1415	-0.3348	55.90	Technology	Software	84		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+11/27 04:43:12
+WDAY
+ASK	185	call	2028-01-21	780d	$215.32	-14%	$68.00 - $71.50	$70.13	10	$70K	11	0	-	
+100%
+716	46.27	0.7163	-0.0321	0.0023	1.0704	1.8111	70.13	Technology	Software	84		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 03:53:44
+WDAY
+BID	255	put	2025-11-28	-4d	$212.37	-20%	$42.20 - $44.70	$42.60	30	$128K	30	4	7.50	
+100%
+-2,598	208.47	-0.8661	-1.768	0.0066	0.0339	-0.0125	44.70	Technology	Software	84		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+11/27 03:53:44
+WDAY
+BID	245	put	2025-12-05	3d	$212.37	-15%	$31.80 - $34.70	$32.50	25	$81K	30	5	6.00	
+83%
+-2,119	83.33	-0.8477	-0.3629	0.0085	0.0785	-0.0529	34.70	Technology	Software	84		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+11/27 03:53:44
+WDAY
+ASK	270	put	2026-01-16	45d	$212.37	-27%	$55.90 - $59.80	$58.10	3,110	$18.1M	3,110	470	6.62	
+100%
+-296,286	36.86	-0.9527	-0.0269	0.0034	0.0783	-0.3639	58.10	Technology	Software	84		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+11/27 03:53:36
+WDAY
+BID	247.5	put	2025-11-28	-4d	$212.43	-17%	$34.20 - $37.20	$35.20	9	$32K	9	2	4.50	
+100%
+-880	101.27	-0.9773	-0.2139	0.0034	0.0085	-0.0133	35.20	Technology	Software	84		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+11/27 03:53:36
+WDAY
+BID	270	put	2025-12-19	17d	$212.43	-27%	$56.50 - $59.30	$57.70	242	$1.4M	242	36	6.72	
+100%
+-23,761	44.43	-0.9819	-0.0221	0.0019	0.0238	-0.1678	57.70	Technology	Software	84		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+11/27 01:49:37
+WDAY
+BID	190	put	2025-12-19	17d	$213.31	11%	$0.80 - $1.00	$0.80	932	$75K	1,195	443	2.70	
+99%
+-8,233	35.30	-0.0883	-0.0657	0.0085	0.0858	-0.0124	0.80	Technology	Software	84		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+11/27 01:31:54
+WDAY
+BID	125	call	2026-06-18	198d	$212.10	-41%	$91.00 - $92.20	$91.13	5	$46K	5	0	-	
+100%
+462	58.55	0.9237	-0.0334	0.0015	0.2274	0.5856	91.13	Technology	Software	84		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/26 23:27:51
+WDAY
+ASK	250	put	2025-12-05	3d	$209.59	-19%	$38.90 - $41.50	$40.21	10	$40K	12	2	6.00	
+83%
+-907	80.88	-0.9074	-0.2446	0.0062	0.0546	-0.0571	41.50	Technology	Software	84		ML-O	
+MLAT
+🐻 - BEARISH🛍️ - ASK	
+
+11/26 23:09:46
+WDAY
+BID	185	put	2026-01-16	45d	$213.89	14%	$0.85 - $3.00	$1.61	1,805	$291K	1,807	241	7.50	
+100%
+-20,673	34.15	-0.1145	-0.0517	0.0071	0.1547	-0.0365	1.61	Technology	Software	84		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+11/26 22:58:25
+WDAY
+ASK	225	call	2025-12-19	17d	$214.71	5%	$3.30 - $3.60	$3.60	130	$47K	134	10	13.40	
+98%
+4,053	34.85	0.3118	-0.1446	0.0188	0.1906	0.0399	3.60	Technology	Software	84		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/26 22:42:28
+WDAY
+BID	215	call	2025-11-28	-4d	$217.00	-1%	$3.90 - $5.00	$4.20	75	$32K	93	8	11.63	
+97%
+4,565	48.55	0.6086	-0.7493	0.0492	0.0617	0.007	4.20	Technology	Software	84		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/26 04:24:19
+WDAY
+BID	235	put	2025-12-19	17d	$235.50	0%	$11.00 - $11.70	$11.28	49	$55K	60	0	-	
+97%
+-2,295	47.97	-0.4684	-0.2396	0.0137	0.2402	-0.0799	11.28	Technology	Software	84		SL	
+SLAN
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+11/26 01:12:43
+WDAY
+BID	275	put	2025-11-28	-4d	$235.38	-17%	$38.90 - $41.60	$40.20	10	$40K	10	0	-	
+100%
+-939	107.57	-0.939	-0.4608	0.0053	0.0258	-0.0215	40.20	Technology	Software	84		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+11/26 01:08:03
+WDAY
+ASK	265	call	2025-12-19	17d	$235.27	13%	$2.05 - $2.55	$2.40	182	$44K	240	0	-	
+95%
+3,108	45.91	0.1708	-0.1466	0.0092	0.1531	0.0248	2.40	Technology	Software	84	Repeated Hits Descending Fill	SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+11/26 00:08:29
+WDAY
+ASK	217.5	put	2025-11-28	-4d	$234.02	7%	$2.65 - $3.30	$2.98	200	$60K	224	25	8.96	
+90%
+-4,300	109.19	-0.215	-1.128	0.0126	0.062	-0.0044	2.98	Technology	Software	84		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+11/26 00:08:29
+WDAY
+BID	222.5	put	2025-11-28	-4d	$234.02	5%	$4.00 - $4.40	$4.18	200	$84K	216	80	2.70	
+95%
+-5,670	106.20	-0.2835	-1.2714	0.015	0.0718	-0.0058	4.18	Technology	Software	84		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+11/25 23:25:24
+WDAY
+BID	270	put	2025-11-28	-4d	$229.26	-18%	$39.80 - $41.80	$40.75	8	$33K	8	0	-	
+100%
+-797	65.29	-0.9969	-0.0206	0.0007	0.002	-0.0221	40.75	Technology	Software	84		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+11/25 01:21:35
+WDAY
+ASK	197.5	call	2025-11-28	-4d	$227.09	-13%	$28.80 - $30.20	$30.20	10	$30K	10	0	-	
+100%
+937	90.11	0.9366	-0.3335	0.0058	0.0296	0.02	30.20	Technology	Software	84		SL	
+ISOI
+SWEEP	🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	

@@ -1,0 +1,466 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog4
+Info
+Careers
+
+
+
+
+SALECyber Monday Sale until Dec 02! Get 30% off of Platform plans for up to 1 year!
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/22 21:30 - 12/2 23:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+COHR
+$170.23
+4.12%
+Volume
+2,863
+Premiums
+6.31M
+Bullish
+5.07M
+80.39%
+Bearish
+1.18M
+18.78%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/02 22:52:16
+COHR
+ASK	200	call	2026-09-18	290d	$169.54	18%	$33.40 - $33.50	$33.50	240	$804K	262	17	15.41	
+100%
+12,718	73.03	0.5299	-0.0761	0.0036	0.6012	0.4477	33.50	Technology	Scientific & Technical Instruments	64	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 22:47:42
+COHR
+ASK	200	call	2026-07-17	227d	$168.66	19%	$25.40 - $29.00	$27.57	35	$96K	38	2	19.00	
+92%
+1,735	72.29	0.4957	-0.0849	0.0041	0.5306	0.3485	27.57	Technology	Scientific & Technical Instruments	64		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 22:32:47
+COHR
+ASK	185	call	2026-07-17	227d	$170.49	9%	$30.80 - $33.80	$32.36	25	$81K	25	0	-	
+100%
+1,385	70.83	0.5542	-0.0834	0.0042	0.5314	0.3863	32.36	Technology	Scientific & Technical Instruments	64		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 22:32:47
+COHR
+BID	220	call	2026-07-17	227d	$170.49	29%	$19.90 - $23.40	$21.61	25	$54K	25	5	5.00	
+100%
+1,059	69.07	0.4237	-0.0805	0.0042	0.5265	0.3148	21.61	Technology	Scientific & Technical Instruments	64		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+12/02 22:30:01
+COHR
+ASK	152.5	call	2026-01-02	31d	$167.50	-9%	$20.70 - $23.60	$23.33	28	$65K	28	2	14.00	
+100%
+1,960	78.74	0.70	-0.2161	0.009	0.1697	0.0798	23.33	Technology	Scientific & Technical Instruments	64		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+12/02 02:54:57
+COHR
+BID	150	put	2028-01-21	780d	$165.22	9%	$44.00 - $47.50	$45.00	120	$540K	120	7	17.14	
+100%
+-3,486	59.28	-0.2905	-0.0307	0.0024	0.8279	-1.9899	45.00	Technology	Scientific & Technical Instruments	64		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+12/02 01:25:03
+COHR
+ASK	125	put	2027-01-15	409d	$162.88	23%	$20.70 - $24.50	$22.67	14	$32K	24	2	12.00	
+58%
+-325	65.59	-0.2318	-0.0416	0.0027	0.5265	-0.6788	22.67	Technology	Scientific & Technical Instruments	64		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+12/02 01:25:03
+COHR
+BID	240	call	2027-01-15	409d	$162.88	47%	$25.20 - $28.50	$26.79	14	$38K	24	2	12.00	
+58%
+614	69.44	0.4386	-0.058	0.0033	0.6805	0.5015	26.79	Technology	Scientific & Technical Instruments	64		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/02 00:38:59
+COHR
+BID	65	call	2026-06-18	198d	$161.54	-60%	$97.80 - $101.20	$99.45	6	$60K	6	4	1.50	
+100%
+572	92.28	0.9534	-0.0274	0.0009	0.1162	0.2975	99.45	Technology	Scientific & Technical Instruments	64		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+11/29 01:20:25
+COHR
+BID	157.5	call	2025-12-12	10d	$165.65	-5%	$14.10 - $15.40	$14.10	100	$141K	101	7	14.43	
+100%
+6,615	75.11	0.6615	-0.3186	0.015	0.1187	0.0366	14.10	Technology	Scientific & Technical Instruments	64		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/29 00:12:29
+COHR
+ASK	165	call	2025-12-12	10d	$165.17	-0%	$8.70 - $10.20	$9.75	1,090	$1.06M	1,096	31	35.35	
+100%
+57,999	74.99	0.5321	-0.3448	0.0164	0.1286	0.03	9.75	Technology	Scientific & Technical Instruments	64		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+11/29 00:12:29
+COHR
+BID	180	call	2025-12-19	17d	$165.17	9%	$5.30 - $6.30	$5.50	2,180	$1.2M	2,190	332	6.60	
+100%
+72,367	69.23	0.332	-0.2372	0.0132	0.1438	0.0284	5.50	Technology	Scientific & Technical Instruments	64		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+11/28 23:12:28
+COHR
+BID	157.5	put	2025-12-05	3d	$159.86	1%	$4.40 - $6.70	$5.34	65	$35K	68	23	2.96	
+99%
+-2,742	73.64	-0.4219	-0.4554	0.024	0.0866	-0.014	5.34	Technology	Scientific & Technical Instruments	64		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+11/28 22:58:08
+COHR
+BID	185	call	2026-03-20	108d	$159.50	16%	$16.80 - $17.10	$16.80	131	$220K	131	50	2.62	
+100%
+5,715	73.32	0.4362	-0.1142	0.0061	0.348	0.1619	16.80	Technology	Scientific & Technical Instruments	64		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/28 22:48:11
+COHR
+BID	140	put	2025-12-19	17d	$158.78	12%	$2.70 - $5.00	$3.20	500	$160K	500	343	1.46	
+100%
+-10,010	69.29	-0.2002	-0.1759	0.0106	0.1067	-0.0201	3.20	Technology	Scientific & Technical Instruments	64		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+11/28 22:48:11
+COHR
+BID	200	call	2026-03-20	108d	$158.78	26%	$10.30 - $13.30	$11.10	500	$555K	500	418	1.20	
+100%
+16,873	68.28	0.3375	-0.0982	0.0061	0.3213	0.1304	11.10	Technology	Scientific & Technical Instruments	64		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+11/28 22:48:11
+COHR
+ASK	160	call	2026-03-20	108d	$158.78	1%	$23.40 - $25.80	$24.90	500	$1.25M	500	116	4.31	
+100%
+28,653	72.78	0.5731	-0.1125	0.0061	0.345	0.2028	24.90	Technology	Scientific & Technical Instruments	64		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+11/25 22:50:04
+COHR
+BID	170	call	2025-12-05	3d	$142.85	19%	$0.75 - $2.45	$0.75	820	$62K	920	10	92.00	
+100%
+7,690	76.13	0.0938	-0.1507	0.0093	0.0396	0.0035	0.75	Technology	Scientific & Technical Instruments	64		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/25 03:52:28
+COHR
+BID	180	call	2026-07-17	227d	$150.76	19%	$24.10 - $27.00	$25.00	200	$500K	200	0	-	
+100%
+9,913	72.49	0.4957	-0.0748	0.0045	0.4826	0.3202	25.00	Technology	Scientific & Technical Instruments	64		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+11/25 02:36:56
+COHR
+BID	200	call	2026-03-20	108d	$153.81	30%	$11.00 - $11.50	$11.00	350	$385K	350	74	4.73	
+100%
+11,510	71.94	0.3289	-0.0975	0.0058	0.3136	0.1258	11.00	Technology	Scientific & Technical Instruments	64		SL	
+SLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+11/25 00:54:28
+COHR
+ASK	140	put	2025-12-12	10d	$151.90	8%	$4.20 - $4.90	$4.70	966	$454K	981	5	196.20	
+98%
+-27,085	73.51	-0.2804	-0.2319	0.0136	0.1136	-0.0233	4.70	Technology	Scientific & Technical Instruments	64		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
