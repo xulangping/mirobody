@@ -1,0 +1,381 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/25 21:30 - 12/6 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+S
+$14.52
+-14.44%
+Post
+$14.58
+  0.41%
+Volume
+126,080
+Premiums
+18.78M
+Bullish
+12.1M
+64.44%
+Bearish
+5.32M
+28.30%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/06 03:22:59
+S
+BID	10	call	2026-03-20	104d	$14.63	-32%	$4.70 - $5.50	$4.99	100	$50K	147	44	3.34	
+89%
+8,861	69.67	0.8861	-0.0051	0.0353	0.0151	0.0229	4.99	Technology	Software Infrastructure	95		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+12/06 02:12:36
+S
+BID	14	put	2026-06-18	194d	$14.73	5%	$1.60 - $1.85	$1.71	235	$40K	242	49	4.94	
+98%
+-8,745	49.62	-0.3721	-0.0051	0.0708	0.0407	-0.0384	1.71	Technology	Software Infrastructure	95		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+12/06 02:12:36
+S
+ASK	10	call	2026-06-18	194d	$14.73	-32%	$5.30 - $5.70	$5.51	235	$129K	239	21	11.38	
+99%
+19,900	69.10	0.8468	-0.0046	0.0318	0.0255	0.0372	5.51	Technology	Software Infrastructure	95		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+12/05 22:40:59
+S
+ASK	15	call	2026-09-18	286d	$14.72	2%	$2.30 - $3.10	$3.04	831	$253K	1,185	181	6.55	
+71%
+49,413	60.95	0.5946	-0.0054	0.0487	0.0506	0.0449	3.04	Technology	Software Infrastructure	95	Repeated Hits Ascending Fill	SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+12/04 23:22:09
+S
+ASK	13	call	2026-09-18	286d	$17.11	-24%	$5.50 - $6.00	$5.77	235	$136K	235	203	1.16	
+100%
+18,342	63.11	0.7805	-0.005	0.0308	0.0449	0.0598	5.77	Technology	Software Infrastructure	95		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+12/02 22:35:33
+S
+ASK	16	call	2025-12-05	-1d	$16.24	-1%	$0.80 - $1.05	$1.04	869	$90K	1,010	508	1.99	
+99%
+49,514	157.06	0.5698	-0.1514	0.1699	0.0058	0.0007	1.04	Technology	Software Infrastructure	95	Repeated Hits Ascending Fill	SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+12/02 00:21:35
+S
+ASK	17	call	2026-06-18	194d	$16.14	5%	$2.25 - $2.55	$2.45	1,200	$294K	1,200	640	1.88	
+100%
+64,826	58.92	0.5402	-0.007	0.0565	0.0473	0.0342	2.45	Technology	Software Infrastructure	95		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+12/02 00:21:35
+S
+BID	27	call	2026-06-18	194d	$16.14	67%	$0.35 - $0.60	$0.45	1,200	$54K	1,200	284	4.23	
+100%
+18,367	56.44	0.1531	-0.004	0.0351	0.0282	0.011	0.45	Technology	Software Infrastructure	95		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+11/29 00:19:24
+S
+ASK	18.5	call	2025-12-05	-1d	$16.34	13%	$0.20 - $0.30	$0.28	1,843	$52K	1,846	172	10.73	
+100%
+40,336	105.80	0.2189	-0.0505	0.1233	0.0067	0.0006	0.28	Technology	Software Infrastructure	95	Repeated Hits Ascending Fill	SL	
+SLAI
+SWEEP	🐂 - BULLISH🛍️ - ASK⌛ - ER UPCOMING	
+
+11/25 23:11:10
+S
+BID	20	call	2026-01-02	27d	$15.96	25%	$0.05 - $0.65	$0.30	1,000	$30K	1,000	5	200.00	
+100%
+17,646	67.42	0.1765	-0.0118	0.0747	0.0133	0.0026	0.30	Technology	Software Infrastructure	95		SL	
+SLAN
+🐻 - BEARISH🦴 - BID⌛ - ER UPCOMING	

@@ -1,0 +1,421 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/25 21:30 - 12/6 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+SATS
+$82.00
+10.07%
+Post
+$85.16
+  3.85%
+Volume
+78,708
+Premiums
+49.73M
+Bullish
+22.68M
+45.61%
+Bearish
+22.61M
+45.47%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/06 04:51:18
+SATS
+BID	9	call	2026-01-16	41d	$84.54	-89%	$76.90 - $77.50	$76.90	29	$223K	47	0	-	
+100%
+2,859	478.07	0.9858	-0.0589	0.0003	0.0103	0.0074	76.90	Technology	Communication Equipment	82		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+12/06 04:51:18
+SATS
+BID	9	call	2026-01-16	41d	$84.54	-89%	$76.90 - $77.50	$76.90	18	$138K	18	0	-	
+100%
+1,774	478.07	0.9858	-0.0589	0.0003	0.0103	0.0074	76.90	Technology	Communication Equipment	82		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+12/06 04:51:18
+SATS
+ASK	38	call	2026-01-16	41d	$84.54	-55%	$44.60 - $48.50	$48.50	48	$233K	48	35	1.37	
+100%
+4,506	193.92	0.9388	-0.0803	0.0022	0.0347	0.0355	48.50	Technology	Communication Equipment	82		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/06 04:51:10
+SATS
+BID	110	put	2025-12-19	13d	$82.08	-34%	$26.10 - $26.20	$26.10	17	$44K	28	2	14.00	
+100%
+-1,591	92.92	-0.9359	-0.0668	0.0084	0.0202	-0.0403	28.3595	Technology	Communication Equipment	82		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+12/06 04:43:08
+SATS
+ASK	120	put	2026-01-16	41d	$82.43	-46%	$37.30 - $37.70	$37.70	35	$132K	35	0	-	
+100%
+-3,401	55.30	-0.9717	-0.0113	0.0042	0.0181	-0.1355	37.70	Technology	Communication Equipment	82		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+12/06 04:28:05
+SATS
+ASK	90	call	2026-07-17	223d	$82.24	9%	$11.10 - $13.70	$12.42	30	$37K	30	0	-	
+100%
+1,555	59.84	0.5182	-0.0345	0.0103	0.2568	0.1853	12.42	Technology	Communication Equipment	82		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+12/06 03:47:05
+SATS
+BID	6	call	2025-12-19	13d	$82.88	-93%	$75.00 - $75.10	$75.00	49	$368K	49	1	49.00	
+100%
+4,900	75.61	1.00	0.00	0.00	0.00	0.0023	77.1201	Technology	Communication Equipment	82		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+12/06 03:47:05
+SATS
+BID	2.5	call	2025-12-19	13d	$82.88	-97%	$78.50 - $78.60	$78.50	32	$251K	32	0	-	
+100%
+3,200	75.61	1.00	0.00	0.00	0.00	0.001	80.62	Technology	Communication Equipment	82		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+12/06 03:37:48
+SATS
+BID	90	call	2026-06-18	194d	$85.88	5%	$13.80 - $15.20	$13.80	309	$426K	311	184	1.69	
+100%
+16,996	61.85	0.55	-0.0397	0.0102	0.2485	0.1786	13.80	Technology	Communication Equipment	82		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+12/06 03:37:12
+SATS
+ASK	100	call	2028-01-21	776d	$86.23	16%	$21.00 - $22.00	$21.58	191	$412K	208	52	4.00	
+95%
+11,049	52.57	0.5785	-0.0169	0.0059	0.4921	0.6024	21.58	Technology	Communication Equipment	82		ML-S	
+TLET
+🐂 - BULLISH🛍️ - ASK	
+
+12/06 02:54:24
+SATS
+ASK	85	call	2026-01-16	41d	$82.14	3%	$4.30 - $5.40	$5.00	5,000	$2.5M	5,009	3,783	1.32	
+100%
+233,237	55.97	0.4665	-0.074	0.0255	0.1108	0.0383	5.00	Technology	Communication Equipment	82	Low Historic Volume Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+12/06 01:54:40
+SATS
+ASK	70	call	2026-06-18	194d	$77.26	-9%	$15.10 - $16.40	$15.90	499	$793K	500	306	1.63	
+100%
+33,608	55.69	0.6735	-0.0294	0.0115	0.2036	0.1931	15.90	Technology	Communication Equipment	82		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/27 01:47:37
+SATS
+BID	80	call	2026-03-20	104d	$71.19	12%	$5.00 - $5.60	$5.10	3,459	$1.76M	5,005	364	13.75	
+88%
+138,880	52.45	0.4015	-0.0355	0.0185	0.1538	0.0733	5.10	Technology	Communication Equipment	82	Sweeps Followed By Floor	SL	
+SLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+11/27 01:45:37
+SATS
+ASK	80	call	2026-03-20	104d	$71.49	12%	$5.20 - $5.30	$5.30	500	$265K	500	364	1.37	
+100%
+20,454	52.95	0.4091	-0.0362	0.0184	0.1552	0.0748	5.30	Technology	Communication Equipment	82		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+11/26 01:01:44
+SATS
+BID	72	call	2025-12-19	13d	$70.91	2%	$3.50 - $3.60	$3.50	111	$39K	111	4	27.75	
+100%
+5,386	55.03	0.4852	-0.0832	0.0398	0.0725	0.0203	3.50	Technology	Communication Equipment	82		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	

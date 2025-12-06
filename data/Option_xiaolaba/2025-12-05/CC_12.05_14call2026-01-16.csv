@@ -1,0 +1,3 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+CC_12.05_14call2026-01-16.txt,2025-12-05,23:09:56,CC,ASK,14,call,2026-01-16,41d,$13.00,$0.25 - $0.90,$0.81,"4,983",$404K,"4,985","1,330",3.75,100%,"209,143",68.36,0.4197,-0.0141,0.1296,0.0172,0.0053,0.81,Basic Materials,Chemicals,73,Repeated Hits Ascending Fill,14 call 2026-01-16
+CC_12.05_14call2026-01-16.txt,2025-12-02,04:17:49,CC,BID,10,put,2027-01-15,405d,$12.81,$1.55 - $2.80,$1.80,"1,000",$180K,"1,001",283,3.54,100%,"-23,921",64.03,-0.2392,-0.0033,0.0357,0.0421,-0.0546,1.80,Basic Materials,Chemicals,73,,10 put 2027-01-15
