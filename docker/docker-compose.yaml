@@ -112,4 +112,3 @@ volumes:
   mirobody_postgres:
   mirobody_upload:
   mirobody_charts:
-  mirobody_minio:
