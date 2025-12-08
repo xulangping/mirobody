@@ -5,3 +5,4 @@ config/config.yaml
 .specstory/
 __pycache__/
 .DS_Store
+.cursor/
