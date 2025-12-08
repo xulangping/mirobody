@@ -14,7 +14,7 @@ Mirobody is not just another chatbot wrapper. It is a privacy-first data platfor
     * Tools built here instantly work in **ChatGPT** (via Apps-SDK) and the entire **MCP Ecosystem** (Claude, Cursor, IDEs).
     * Mirobody works simultaneously as an **MCP Client** (to use tools) and an **OAuth-enabled MCP Server** (to provide data), creating a complete data loop.
 
-* **Your data is an asset, not a payload.**
+* **Your Data Is an Asset, Not a Payload**
     
     Mirobody is built for **Personal Intelligence**, not just local storage. We believe the next frontier of AI is not knowing more about the world, but knowing more about *you*.
     * General AI creates generic answers. Mirobody uses your data to create a **Personal Knowledge Base**, enabling AI to give answers that are truly relevant to your life.
@@ -52,7 +52,7 @@ Initialize your environment in seconds:
 ```bash
 cd config
 cp config.example.yaml config.yaml
-````
+```
 
 > **Note**:
 >
@@ -74,13 +74,13 @@ Launch the platform using our unified deployment script.
 
 **Option A: Image Mode** ⭐ **(Recommended)**
 *Downloads pre-built images.*
-*Faster deployment with synthetic test user data included in the database (coming soon)*
+*Faster deployment with synthetic test user data included in the database (coming soon).*
 
 ```bash
 ./deploy.sh --mode=image
 ```
 
-**Option B: build Mode**
+**Option B: Build Mode**
 *Builds everything from scratch.*
 
 ```bash
@@ -134,6 +134,6 @@ Mirobody provides standard endpoints for integration:
 
 -----
 
-\<p align="center"\>
-\<sub\>Built with ❤️ for the AI Open Source Community.\</sub\>
-\</p\>
+<p align="center">
+<sub>Built with ❤️ for the AI Open Source Community.</sub>
+</p>
