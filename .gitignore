@@ -7,3 +7,4 @@ __pycache__/
 .DS_Store
 .cursor/
 data/real_time_daban_indicator/
+data/twoban/
