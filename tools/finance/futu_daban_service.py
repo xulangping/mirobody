@@ -42,12 +42,14 @@ class DBMonitor:
         self.name = name
         self.ctx = ctx
         self.indicators = {}
-        self.score_val = 0
+        # self.score_val = 0 # Removed
         
-    def update_kline(self, n_bars=1000, output_n=10):
+    def update_kline(self, n_bars=1000, output_n=10, target_date=None):
         """
         更新1分钟K线，计算 MA, VWAP, 趋势, 影线
-        Returns last output_n records for time-series indicators
+        Args:
+            target_date: 'YYYY-MM-DD', if provided, filter only this date. 
+                         Defaults to current date if None.
         """
         if not self.ctx:
             self.indicators['K线状态'] = "未连接"
@@ -67,13 +69,20 @@ class DBMonitor:
         # Ensure sorted by time
         df = df.sort_values('time_key').reset_index(drop=True)
         
-        # Filter future bars (sanity check against system time)
-        # User reported receiving 13:01 data at 12:41.
+        # Filter future bars
         now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         df = df[df['time_key'] <= now_str].reset_index(drop=True)
         
+        # Filter by target date (Default to Today if not specified)
+        if not target_date:
+            target_date = datetime.now().strftime("%Y-%m-%d")
+            
+        df = df[df['time_key'].str.startswith(target_date)].reset_index(drop=True)
+
         if df.empty:
-            self.indicators['K线状态'] = "无数据(过滤后)"
+            self.indicators['K线状态'] = f"无{target_date}数据"
+            # Clear indicators to avoid stale data
+            self.indicators['time_key'] = []
             return
 
         # 1. 计算 MA3, MA5
@@ -109,8 +118,21 @@ class DBMonitor:
         # Slice the last N rows for output
         subset = df.tail(output_n).copy().reset_index(drop=True)
         
-        # Store Time Series
+        # Store Time Series (Fundamental K-line Data)
         self.indicators['time_key'] = subset['time_key'].tolist()
+        self.indicators['现价'] = [round(float(x), 3) for x in subset['close']]
+        self.indicators['分时成交量'] = [int(x) for x in subset['volume']]
+        self.indicators['分时成交额'] = [round(float(x), 2) for x in subset['turnover']]
+        
+        # Calculate Pct Change Series (Requires prev_close from update_tick or day_kline)
+        prev_close = self.indicators.get('昨收', 0.0)
+        if prev_close > 0:
+            self.indicators['涨跌幅强度'] = [f"{round((x - prev_close) / prev_close * 100, 2)}%" for x in subset['close']]
+        else:
+            # Fallback if prev_close not available
+            self.indicators['涨跌幅强度'] = ["0.00%" for _ in subset['close']]
+
+        # Indicators
         self.indicators['分时_MA3'] = [round(float(x), 3) if pd.notna(x) else None for x in subset['ma3']]
         self.indicators['分时_MA5'] = [round(float(x), 3) if pd.notna(x) else None for x in subset['ma5']]
         self.indicators['VWAP'] = [round(float(x), 3) if pd.notna(x) else None for x in subset['vwap']]
@@ -321,51 +343,6 @@ class DBMonitor:
         self.indicators['买一量'] = int(bids[0][1]) if bids else 0
         self.indicators['卖一量'] = int(asks[0][1]) if asks else 0
 
-    def score(self) -> float:
-        """
-        综合打分 (0-100)
-        """
-        s = 50.0
-        
-        # 趋势分 (Use latest trend from series)
-        trends = self.indicators.get('分时趋势结构', [])
-        trend = trends[-1] if trends else ''
-        if '强上升' in trend:
-            s += 20
-        elif '弱上升' in trend:
-            s += 10
-        elif '下降' in trend:
-            s -= 10
-        
-        # 资金分
-        flows = self.indicators.get('成交金额趋势', [])
-        flow = flows[-1] if flows else ''
-        if flow == '流入':
-            s += 10
-        elif flow == '流出':
-            s -= 10
-        
-        # 盘口分
-        book = self.indicators.get('托单压单', '')
-        if '托单' in book:
-            s += 10
-        elif '压单' in book:
-            s -= 10
-        
-        # 涨幅分
-        chg_str = self.indicators.get('涨跌幅强度', '0%').replace('%', '')
-        try:
-            chg = float(chg_str)
-            if chg > 5:
-                s += 10
-            if chg > 9:
-                s += 5 # Near limit up
-        except Exception:
-            pass
-            
-        self.score_val = min(100.0, max(0.0, s))
-        return round(self.score_val, 1)
-
 class FutuDabanService:
     """
     富途打板指标服务
@@ -449,13 +426,14 @@ class FutuDabanService:
             
         return name_map
 
-    def get_daban_indicators_realtime(self, stock_names: str, output_limit: int = 10) -> Dict[str, Any]:
+    def get_daban_indicators_realtime(self, stock_names: str, output_limit: int = 10, target_date: str = None) -> Dict[str, Any]:
         """
         获取打板核心因子 (基于 Futu 实时数据)
         
         Args:
-            stock_names: 股票名称，支持多个，逗号分隔 (e.g., '利欧股份,中信证券')
-            output_limit: 返回最近 N 条 K 线衍生指标 (默认 10)
+            stock_names: 股票名称
+            output_limit: 返回最近 N 条
+            target_date: 指定日期 'YYYY-MM-DD' (默认当天)
             
         Returns:
             Dict: 包含个股打板因子的详细数据字典
@@ -517,16 +495,12 @@ class FutuDabanService:
                 # Order matters: Tick (Snapshot) gets prev_close needed for Rebound Count in Kline
                 monitor.update_tick() 
                 monitor.update_day_kline()
-                monitor.update_kline(n_bars=1000, output_n=output_limit) 
+                monitor.update_kline(n_bars=1000, output_n=output_limit, target_date=target_date) 
                 monitor.update_order_book()
-                
-                # Calculate Score
-                score = monitor.score()
                 
                 results.append({
                     "name": name,
                     "code": code,
-                    "score": score,
                     "indicators": monitor.indicators
                 })
                 
@@ -542,10 +516,19 @@ class FutuDabanService:
                     pass
             self._close_ctx()
             
+        # Determine data date string for filename
+        if target_date:
+            date_str = target_date.replace('-', '')
+        else:
+            date_str = datetime.now().strftime("%Y%m%d")
+
         return self._sanitize({
             "success": True,
             "data": results,
-            "metadata": {"timestamp": datetime.now().isoformat()}
+            "metadata": {
+                "timestamp": datetime.now().isoformat(),
+                "data_date": date_str
+            }
         })
 
 def save_to_csv(data: Dict[str, Any], output_dir: str):
@@ -560,7 +543,10 @@ def save_to_csv(data: Dict[str, Any], output_dir: str):
         os.makedirs(output_dir)
         logging.info(f"创建目录: {output_dir}")
 
-    timestamp = datetime.now().strftime("%Y%m%d")
+    # Use data_date from metadata if available, else current time
+    data_date = data.get('metadata', {}).get('data_date')
+    if not data_date:
+        data_date = datetime.now().strftime("%Y%m%d")
 
     for item in data['data']:
         name = item.get('name', 'Unknown')
@@ -581,27 +567,43 @@ def save_to_csv(data: Dict[str, Any], output_dir: str):
             
         n_rows = len(time_keys)
         
+        # Define snapshot fields (only show in last row)
+        snapshot_fields = {
+            '托单压单', '买一量', '卖一量', 
+            '反抽次数', '高点结构', '早盘低点'
+        }
+        
+        # Define excluded fields (debug/status info, not in CSV)
+        exclude_fields = {
+            'score', '日K状态', 'K线状态', '盘口状态', '行情状态'
+        }
+        
         for k, v in indicators.items():
+            if k in exclude_fields:
+                continue
+                
             if isinstance(v, list) and len(v) == n_rows:
                 time_series_data[k] = v
             else:
                 scalar_data[k] = v
         
-        # 添加外层的 score
-        scalar_data['score'] = item.get('score', 0)
-
         try:
             df = pd.DataFrame(time_series_data)
             
-            # 将标量数据作为常数列添加 (方便查看，虽然有点冗余)
+            # 将标量数据作为常数列添加
             for k, v in scalar_data.items():
-                df[k] = v
+                if k in snapshot_fields:
+                    # Only show in last row, leave history empty
+                    df[k] = [None] * (n_rows - 1) + [v]
+                else:
+                    # Normal broadcast for true scalars like 昨收, OPEN强度
+                    df[k] = v
             
             # 重新排序列，确保 time_key 在前
             cols = ['time_key'] + [c for c in df.columns if c != 'time_key']
             df = df[cols]
             
-            filename = f"{name}_{timestamp}.csv"
+            filename = f"{name}_{data_date}.csv"
             filepath = os.path.join(output_dir, filename)
             df.to_csv(filepath, index=False, encoding='utf-8-sig')
             logging.info(f"已保存: {filepath}")
@@ -620,20 +622,21 @@ if __name__ == "__main__":
     parser.add_argument('stocks', nargs='?', default='利欧股份', help='股票名称，多个用逗号分隔')
     parser.add_argument('--out', default='real_time_daban_indicator', help='输出目录')
     parser.add_argument('--limit', type=int, default=10, help='输出最近N条分时数据')
+    parser.add_argument('--date', default=None, help='指定日期 YYYY-MM-DD (默认当天)')
     
     args = parser.parse_args()
     
     service = FutuDabanService()
-    logging.info(f"开始获取数据: {args.stocks} ...")
+    logging.info(f"开始获取数据: {args.stocks} 日期: {args.date or '今天'}...")
     
     try:
-        res = service.get_daban_indicators_realtime(args.stocks, args.limit)
+        res = service.get_daban_indicators_realtime(args.stocks, args.limit, args.date)
         
         if res.get('success'):
             save_to_csv(res, args.out)
             # 简要打印结果
             for item in res['data']:
-                print(f"股票: {item['name']} | 得分: {item['score']}")
+                print(f"股票: {item['name']}")
         else:
             logging.error(f"获取失败: {res.get('error')}")
             
