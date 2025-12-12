@@ -1,0 +1,2 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+PTON_12.11_15call2027-01-15.txt,2025-12-12,03:56:27,PTON,ASK,15,call,2027-01-15,400d,$6.67,$0.49 - $0.55,$0.55,"10,000",$550K,"10,000","8,785",1.14,100%,"251,719",73.32,0.2517,-0.002,0.0623,0.0223,0.0124,0.55,Consumer Cyclical,Travel & Leisure,56,Low Historic Volume Floor,15 call 2027-01-15
