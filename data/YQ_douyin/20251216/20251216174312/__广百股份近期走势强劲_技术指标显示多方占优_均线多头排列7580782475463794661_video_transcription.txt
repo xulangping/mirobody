@@ -1,0 +1,85 @@
+原始文件: __广百股份近期走势强劲_技术指标显示多方占优_均线多头排列7580782475463794661.mp4
+处理时间: 2025-12-16 19:10:45
+文件类型: video_transcription
+============================================================
+
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.integrate import odeint
+# Define the parameters
+k = 1.0
+m = 1.0
+b = 0.1
+# Define the function for the differential equation
+def f(y, t):
+    x, v = y
+    dxdt = v
+    dvdt = -k/m * x - b/m * v
+    return [dxdt, dvdt]
+# Define the initial conditions
+y0 = [1.0, 0.0]
+# Define the time points
+t = np.linspace(0, 10, 100)
+# Solve the differential equation
+y = odeint(f, y0, t)
+# Plot the results
+plt.plot(t, y[:, 0], label='x(t)')
+plt.plot(t, y[:, 1], label='v(t)')
+plt.xlabel('Time')
+plt.ylabel('Position and Velocity')
+plt.legend()
+plt.show()
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.integrate import odeint
+# Define the Lorenz system
+def lorenz(state, t, sigma, beta, rho):
+    x, y, z = state
+    dxdt = sigma * (y - x)
+    dydt = x * (rho - z) - y
+    dzdt = x * y - beta * z
+    return [dxdt, dydt, dzdt]
+# Set the parameters
+sigma = 10
+beta = 8/3
+rho = 28
+# Set the initial conditions
+state0 = [1, 1, 1]
+# Set the time points
+t = np.linspace(0, 100, 10000)
+# Solve the Lorenz system
+solution = odeint(lorenz, state0, t, args=(sigma, beta, rho))
+# Plot the solution
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+ax.plot(solution[:, 0], solution[:, 1], solution[:, 2])
+ax.set_xlabel('X')
+ax.set_ylabel('Y')
+ax.set_zlabel('Z')
+plt.show()
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.integrate import odeint
+# Define the parameters
+k = 1.0
+m = 1.0
+b = 0.1
+# Define the function for the differential equation
+def f(y, t):
+    x, v = y
+    dxdt = v
+    dvdt = -k/m * x - b/m * v
+    return [dxdt, dvdt]
+# Define the initial conditions
+y0 = [1.0, 0.0]
+# Define the time points
+t = np.linspace(0, 10, 100)
+# Solve the differential equation
+y = odeint(f, y0, t)
+# Plot the results
+plt.plot(t, y[:, 0], label='x(t)')
+plt.plot(t, y[:, 1], label='v(t)')
+plt.xlabel('Time')
+plt.ylabel('Position and Velocity')
+plt.legend()
+plt.show()

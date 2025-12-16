@@ -1,0 +1,15 @@
+原始文件: 3xtjr5i8f2frsds3xtjr5i8f2frsds.mp4
+处理时间: 2025-12-16 19:10:06
+文件类型: video_transcription
+============================================================
+
+import math
+
+def calculate_distance(point1, point2):
+    return math.sqrt((point1[0] - point2[0])**2 + (point1[1] - point2[1])**2)
+
+point1 = (1, 2)
+point2 = (4, 6)
+
+distance = calculate_distance(point1, point2)
+print(f"The distance between {point1} and {point2} is {distance}")

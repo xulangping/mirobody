@@ -1,0 +1,15 @@
+原始文件: 3xzcpfz8vxdr4e23xzcpfz8vxdr4e2.mp4
+处理时间: 2025-12-16 19:26:24
+文件类型: video_transcription
+============================================================
+
+import pygame
+pygame.init()
+pygame.mixer.music.load('music.mp3')
+pygame.mixer.music.play()
+pygame.mixer.music.set_volume(0.1)
+clock = pygame.time.Clock()
+clock.tick(10)
+while pygame.mixer.music.get_busy():
+    pygame.event.poll()
+    clock.tick(10)
