@@ -1,0 +1,2 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+UEC_12.31_15call2026-01-30.txt,2025-12-31,03:55:15,UEC,ASK,15,call,2026-01-30,28d,$11.86,$0.15 - $0.35,$0.35,"7,120",$249K,"7,120",52,136.92,100%,"157,700",89.84,0.2215,-0.0149,0.0958,0.0103,0.0019,0.35,Energy,Uranium,67,Low Historic Volume Floor,15 call 2026-01-30

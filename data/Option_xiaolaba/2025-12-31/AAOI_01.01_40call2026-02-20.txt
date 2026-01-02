@@ -1,0 +1,428 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog6
+Info
+Careers
+
+
+
+
+SALENew Years Sale until Jan 4! Get 30% off of Platform plans for up to 1 year!
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/21 21:30 - 1/1 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+AAOI
+$34.86
+-3.22%
+Post
+$34.97
+  0.31%
+Volume
+10,812
+Premiums
+7.22M
+Bullish
+2.99M
+41.39%
+Bearish
+2.3M
+31.86%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+01/01 00:45:15
+	
+AAOI
+ASK	40	call	2026-02-20	49d	$35.06	14%	$3.10 - $3.30	$3.40	341	$116K	458	99	4.63	
+99%
+14,766	99.31	0.433	-0.0503	0.0302	0.0515	0.0165	3.40	Technology	Semiconductors	54	Repeated Hits Ascending Fill	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/29 23:51:23
+	
+AAOI
+BID	30.5	put	2026-01-16	14d	$36.60	17%	$0.80 - $1.30	$0.91	498	$45K	502	79	6.35	
+100%
+-8,978	102.52	-0.1803	-0.0608	0.0315	0.0213	-0.0037	0.91	Technology	Semiconductors	54		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+
+12/27 00:20:26
+	
+AAOI
+ASK	45	put	2026-06-18	167d	$38.32	-17%	$14.70 - $15.30	$15.08	450	$679K	451	13	34.69	
+100%
+-20,235	102.20	-0.4497	-0.0306	0.0146	0.1047	-0.154	15.08	Technology	Semiconductors	54		ML-S	
+TLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/25 01:24:12
+	
+AAOI
+ASK	42	call	2026-01-16	14d	$41.37	2%	$3.85 - $4.10	$4.00	126	$50K	151	85	1.78	
+100%
+6,661	103.45	0.5287	-0.093	0.037	0.0413	0.0113	4.00	Technology	Semiconductors	54	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/24 23:23:17
+	
+AAOI
+BID	33	put	2026-01-16	14d	$40.38	18%	$0.85 - $1.25	$0.97	852	$83K	1,000	100	10.00	
+100%
+-14,303	95.43	-0.1679	-0.0528	0.0259	0.0254	-0.0049	0.97	Technology	Semiconductors	54		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+
+12/24 23:09:09
+	
+AAOI
+BID	1	call	2026-01-02	0d	$40.42	-98%	$38.00 - $41.50	$39.49	10	$39K	10	0	-	
+100%
+998	1,173.57	0.9983	-0.0226	0.0001	0.0003	0.0002	39.49	Technology	Semiconductors	54		ML-S	
+TLAT
+🐻 - BEARISH🦴 - BID	
+
+
+12/24 02:33:05
+	
+AAOI
+ASK	41	call	2026-03-20	77d	$40.89	0%	$7.90 - $8.70	$8.40	99	$83K	114	27	4.22	
+87%
+5,955	107.13	0.6015	-0.0475	0.018	0.077	0.0386	8.40	Technology	Semiconductors	54		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/24 00:22:11
+	
+AAOI
+BID	29	put	2026-01-16	14d	$40.66	29%	$0.40 - $0.95	$0.48	736	$35K	736	128	5.75	
+100%
+-6,206	106.28	-0.0843	-0.0357	0.014	0.0161	-0.0026	0.48	Technology	Semiconductors	54		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+
+12/24 00:15:35
+	
+AAOI
+BID	39	call	2026-01-30	28d	$40.15	-3%	$5.80 - $5.90	$5.80	97	$56K	106	3	35.33	
+92%
+5,823	102.53	0.6003	-0.0676	0.0291	0.05	0.0191	5.80	Technology	Semiconductors	54		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/23 04:29:23
+	
+AAOI
+ASK	40	call	2025-12-26	-7d	$38.44	4%	$0.95 - $1.05	$1.01	1,000	$101K	1,524	375	4.06	
+85%
+37,541	102.36	0.3754	-0.1953	0.0921	0.0153	0.0015	1.01	Technology	Semiconductors	54		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/23 00:02:02
+	
+AAOI
+BID	32	put	2026-02-20	49d	$35.47	10%	$3.60 - $4.00	$3.60	96	$35K	106	6	17.67	
+91%
+-3,098	95.12	-0.3227	-0.0408	0.0262	0.0516	-0.0247	3.60	Technology	Semiconductors	54		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/22 22:30:01
+	
+AAOI
+ASK	26	call	2026-02-20	49d	$32.30	-20%	$7.80 - $9.30	$9.01	100	$90K	100	0	-	
+100%
+7,590	113.11	0.759	-0.0385	0.021	0.0408	0.0255	9.01	Technology	Semiconductors	54		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	

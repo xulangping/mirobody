@@ -1,0 +1,438 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog6
+Info
+Careers
+
+
+
+
+SALENew Years Sale until Jan 4! Get 30% off of Platform plans for up to 1 year!
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/21 21:30 - 1/1 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+CLX
+$100.83
+0.02%
+Post
+$101.30
+  0.47%
+Volume
+10,083
+Premiums
+8.31M
+Bullish
+3.93M
+47.25%
+Bearish
+441,021
+5.31%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+01/01 04:04:58
+	
+CLX
+BID	125	put	2026-01-16	14d	$101.59	-23%	$22.10 - $25.40	$23.70	1,120	$2.65M	1,120	594	1.89	
+100%
+-105,629	60.21	-0.9431	-0.0453	0.0089	0.0243	-0.0524	23.70	Consumer Defensive	Household & Personal Products	31		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+01/01 01:04:46
+	
+CLX
+ASK	110	call	2026-02-20	49d	$101.50	8%	$1.30 - $1.60	$1.55	1,879	$291K	2,526	499	5.06	
+98%
+46,618	29.19	0.2481	-0.0345	0.0286	0.1201	0.033	1.55	Consumer Defensive	Household & Personal Products	31	Sweeps Followed By Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/31 04:38:47
+	
+CLX
+ASK	135	put	2026-01-16	14d	$100.85	-34%	$33.00 - $36.30	$36.30	550	$2M	950	59	16.10	
+58%
+-45,714	123.69	-0.8312	-0.1991	0.0094	0.0548	-0.0559	36.30	Consumer Defensive	Household & Personal Products	31		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/31 04:38:47
+	
+CLX
+ASK	120	put	2026-01-16	14d	$100.85	-19%	$17.90 - $21.30	$21.30	150	$320K	150	15	10.00	
+100%
+-11,815	89.95	-0.7876	-0.1667	0.0148	0.0631	-0.0469	21.30	Consumer Defensive	Household & Personal Products	31		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/31 04:08:52
+	
+CLX
+ASK	115	put	2026-01-16	14d	$100.56	-14%	$14.10 - $16.60	$15.42	580	$894K	580	129	4.50	
+100%
+-48,866	58.21	-0.8425	-0.0891	0.0191	0.0523	-0.0466	15.42	Consumer Defensive	Household & Personal Products	31		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/30 04:17:05
+	
+CLX
+BID	115	put	2026-01-16	14d	$99.30	-16%	$15.20 - $17.50	$16.26	290	$472K	290	129	2.25	
+100%
+-25,838	51.27	-0.891	-0.0583	0.0165	0.0412	-0.0516	16.26	Consumer Defensive	Household & Personal Products	31		ML-O	
+MFSL
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/25 01:03:49
+	
+CLX
+BID	120	put	2026-01-16	14d	$98.03	-22%	$21.00 - $23.80	$21.00	80	$168K	80	15	5.33	
+100%
+-6,517	80.81	-0.8146	-0.1152	0.0134	0.0658	-0.0653	23.80	Consumer Defensive	Household & Personal Products	31		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/25 00:43:48
+	
+CLX
+BID	135	put	2026-01-16	14d	$97.81	-38%	$35.20 - $39.10	$35.30	1,120	$3.95M	1,120	59	18.98	
+100%
+-94,849	110.47	-0.8469	-0.139	0.0087	0.058	-0.0768	39.10	Consumer Defensive	Household & Personal Products	31		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/25 00:43:48
+	
+CLX
+BID	125	put	2026-01-16	14d	$97.81	-28%	$25.30 - $28.40	$25.30	1,120	$2.83M	1,120	595	1.88	
+100%
+-97,074	80.58	-0.8667	-0.0922	0.0109	0.0528	-0.0713	28.40	Consumer Defensive	Household & Personal Products	31		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/24 04:13:05
+	
+CLX
+ASK	115	put	2026-01-16	14d	$97.58	-18%	$17.10 - $18.10	$17.95	500	$898K	504	129	3.91	
+100%
+-45,021	47.62	-0.9004	-0.0431	0.0147	0.0438	-0.0696	17.95	Consumer Defensive	Household & Personal Products	31		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/24 00:58:02
+	
+CLX
+BID	70	call	2028-01-21	749d	$97.09	-28%	$28.70 - $31.40	$30.00	59	$177K	90	20	4.50	
+100%
+5,147	23.93	0.8723	-0.005	0.0062	0.2925	1.1374	30.00	Consumer Defensive	Household & Personal Products	31		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/24 00:47:54
+	
+CLX
+BID	70	call	2028-01-21	749d	$97.18	-28%	$29.60 - $31.90	$30.37	30	$91K	30	20	1.50	
+100%
+2,599	24.92	0.8663	-0.0054	0.0062	0.3023	1.1191	30.37	Consumer Defensive	Household & Personal Products	31		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/23 00:22:31
+	
+CLX
+ASK	90	put	2026-02-20	49d	$98.10	8%	$1.90 - $2.05	$2.00	350	$70K	365	71	5.14	
+98%
+-8,383	33.30	-0.2395	-0.0341	0.0234	0.1235	-0.0419	2.00	Consumer Defensive	Household & Personal Products	31		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
